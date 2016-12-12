@@ -1,0 +1,22 @@
+{
+  "name": "senadores-elecciones",
+  "description": "Contiene la información de las ultimas elecciones de senadores, obtenidas desde el Servel.",
+  "author": "Yerko Palma",
+  "version": "0.1.0",
+  "main": "index.js",
+  "files": [
+    "index.js"
+  ],
+  "scripts": {
+    "test": "standard --verbose | snazzy && ava"
+  },
+  "repository": "YerkoPalma/senadores-elecciones",
+  "keywords": [],
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "ava": "*",
+    "snazzy": "^5.0.0",
+    "standard": "^8.6.0"
+  }
+}
