@@ -4,5 +4,5 @@ import senadoresElecciones from './'
 test('senadores-elecciones does something awesome', t => {
   t.plan(1)
 
-  t.true(senadoresElecciones())
+  t.truthy(senadoresElecciones())
 })

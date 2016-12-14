@@ -38,9 +38,9 @@ function getIngresos (results) {
   let sheetName = workbook.SheetNames[0]
   let sheet = workbook.Sheets[sheetName]
 
-  for(let cell in sheet) {
-    if(cell[0] !== 'A') continue
-    if(sheet[cell].v !== 'SENADOR') continue
+  for (let cell in sheet) {
+    if (cell[0] !== 'A') continue
+    if (sheet[cell].v !== 'SENADOR') continue
 
     let i = cell.slice(1)
     let rut = sheet[`G${i}`].v
@@ -72,9 +72,9 @@ function getGastos (results) {
   let sheetName = workbook.SheetNames[0]
   let sheet = workbook.Sheets[sheetName]
 
-  for(let cell in sheet) {
-    if(cell[0] !== 'A') continue
-    if(sheet[cell].v !== 'SENADOR') continue
+  for (let cell in sheet) {
+    if (cell[0] !== 'A') continue
+    if (sheet[cell].v !== 'SENADOR') continue
 
     let i = cell.slice(1)
     let rut = sheet[`G${i}`].v
