@@ -1,0 +1,3650 @@
+[
+  {
+    "senador": {
+      "id": 905,
+      "nombre": "Allamand Zavala, Andrés",
+      "rut": "5002921-2",
+      "region": "Región Metropolitana ",
+      "circunscripcion": 7,
+      "telefono": "(56-32) 2504701",
+      "mail": "allamand@senado.cl",
+      "partido": "R.N."
+    },
+    "elecciones": {
+      "ingresos": [
+        {
+          "estado": "Aprobada",
+          "proveedor": {
+            "rut": "-",
+            "nombre": "     "
+          },
+          "fecha": "",
+          "documento": {
+            "tipo": "",
+            "descripcion": "",
+            "numero": "0"
+          },
+          "descripcion": "Aportes Reservado",
+          "glosa": "APORTES RESERVADOS",
+          "monto": 493385936
+        },
+        {
+          "estado": "Aprobada",
+          "proveedor": {
+            "rut": "-",
+            "nombre": "     "
+          },
+          "fecha": "",
+          "documento": {
+            "tipo": "",
+            "descripcion": "",
+            "numero": "0"
+          },
+          "descripcion": "Intereses por crédito con Institución Financiera",
+          "glosa": "INTERESES POR CREDITOS",
+          "monto": 5236000
+        },
+        {
+          "estado": "Aprobada",
+          "proveedor": {
+            "rut": "-",
+            "nombre": "     "
+          },
+          "fecha": "",
+          "documento": {
+            "tipo": "",
+            "descripcion": "",
+            "numero": "0"
+          },
+          "descripcion": "Créditos con Instituciones Financieras",
+          "glosa": "CREDITOS CON INST. FINANCIERAS",
+          "monto": 150000000
+        },
+        {
+          "estado": "Aprobada",
+          "proveedor": {
+            "rut": "71395000-9",
+            "nombre": "  RENOVACION NACIONAL  "
+          },
+          "fecha": "",
+          "documento": {
+            "tipo": "OI",
+            "descripcion": "Otros Documentos de Ingresos",
+            "numero": ""
+          },
+          "descripcion": "Aportes Privados de Carácter Público de Partidos Politicos",
+          "glosa": "APORTE R.N.",
+          "monto": 32000000
+        },
+        {
+          "estado": "Aprobada",
+          "proveedor": {
+            "rut": "-",
+            "nombre": "     "
+          },
+          "fecha": "",
+          "documento": {
+            "tipo": "",
+            "descripcion": "",
+            "numero": "0"
+          },
+          "descripcion": "Aporte Propio",
+          "glosa": "APORTES PROPIOS",
+          "monto": 51452358
+        },
+        {
+          "estado": "Aprobada",
+          "proveedor": {
+            "rut": "-",
+            "nombre": "     "
+          },
+          "fecha": "",
+          "documento": {
+            "tipo": "",
+            "descripcion": "",
+            "numero": "0"
+          },
+          "descripcion": "Reembolso solicitado candidato o partido",
+          "glosa": "REEMBOISO SOLICITADO",
+          "monto": 23205000
+        }
+      ]
+    },
+    "representacion": {}
+  },
+  {
+    "senador": {
+      "id": 985,
+      "nombre": "Allende Bussi, Isabel",
+      "rut": "4465782-1",
+      "region": "Región de Atacama",
+      "circunscripcion": 3,
+      "telefono": "(56-32) 2504671",
+      "mail": "iallende@senado.cl",
+      "partido": "P.S."
+    },
+    "elecciones": {},
+    "representacion": {}
+  },
+  {
+    "senador": {
+      "id": 1110,
+      "nombre": "Araya Guerrero, Pedro",
+      "rut": "12615234-5",
+      "region": "Región de Antofagasta",
+      "circunscripcion": 2,
+      "telefono": "(56-32) 2504703",
+      "mail": "paraya@senado.cl",
+      "partido": "Independiente"
+    },
+    "elecciones": {
+      "ingresos": [
+        {
+          "estado": "Aprobada",
+          "proveedor": {
+            "rut": "-",
+            "nombre": "APORTE AN¿NIMO    "
+          },
+          "fecha": "",
+          "documento": {
+            "tipo": "OI",
+            "descripcion": "Otros Documentos de Ingresos",
+            "numero": "0"
+          },
+          "descripcion": "Aportes Anónimos",
+          "glosa": "APORTES ANONIMOS",
+          "monto": 21705493
+        },
+        {
+          "estado": "Aprobada",
+          "proveedor": {
+            "rut": "-",
+            "nombre": "APORTE RESERVADO    "
+          },
+          "fecha": "",
+          "documento": {
+            "tipo": "OI",
+            "descripcion": "Otros Documentos de Ingresos",
+            "numero": "0"
+          },
+          "descripcion": "Aportes Reservado",
+          "glosa": "APORTES RESERVADOS",
+          "monto": 13000000
+        },
+        {
+          "estado": "Aprobada",
+          "proveedor": {
+            "rut": "12615234-5",
+            "nombre": "APORTE PROPIO    "
+          },
+          "fecha": "",
+          "documento": {
+            "tipo": "CB",
+            "descripcion": "Cartola bancaria",
+            "numero": "0"
+          },
+          "descripcion": "Aporte Propio",
+          "glosa": "APORTE PROPIO",
+          "monto": 37667918
+        },
+        {
+          "estado": "Aprobada",
+          "proveedor": {
+            "rut": "12615234-5",
+            "nombre": "APORTE PROPIO    "
+          },
+          "fecha": "",
+          "documento": {
+            "tipo": "OI",
+            "descripcion": "Otros Documentos de Ingresos",
+            "numero": "0"
+          },
+          "descripcion": "Aporte Propio",
+          "glosa": "APORTE PROPIO (USO DE VEHICULO)",
+          "monto": 3000000
+        },
+        {
+          "estado": "Aprobada",
+          "proveedor": {
+            "rut": "-",
+            "nombre": "REEMBOLSO SOLICITADO    "
+          },
+          "fecha": "",
+          "documento": {
+            "tipo": "OI",
+            "descripcion": "Otros Documentos de Ingresos",
+            "numero": "0"
+          },
+          "descripcion": "Reembolso solicitado candidato o partido",
+          "glosa": "REEMBOLSO SOLICITADO",
+          "monto": 19973800
+        }
+      ]
+    },
+    "representacion": {}
+  },
+  {
+    "senador": {
+      "id": 907,
+      "nombre": "Bianchi Chelech, Carlos",
+      "rut": "7452450-8",
+      "region": "Región de Magallanes y la Antártica Chilena\n\n",
+      "circunscripcion": 19,
+      "telefono": "(56-32) 2504566",
+      "mail": "cbianchi@senado.cl",
+      "partido": "Independiente"
+    },
+    "elecciones": {
+      "ingresos": [
+        {
+          "estado": "Aprobada",
+          "proveedor": {
+            "rut": "-",
+            "nombre": "     "
+          },
+          "fecha": "",
+          "documento": {
+            "tipo": "OI",
+            "descripcion": "Otros Documentos de Ingresos",
+            "numero": "0"
+          },
+          "descripcion": "Anticipo financiamiento fiscal",
+          "glosa": "ANTICIPO",
+          "monto": 46518
+        },
+        {
+          "estado": "Aprobada",
+          "proveedor": {
+            "rut": "-",
+            "nombre": "     "
+          },
+          "fecha": "",
+          "documento": {
+            "tipo": "OI",
+            "descripcion": "Otros Documentos de Ingresos",
+            "numero": "0"
+          },
+          "descripcion": "Reembolso solicitado candidato o partido",
+          "glosa": "REEMBOLSO PARA CANDIDATO",
+          "monto": 12076239
+        },
+        {
+          "estado": "Aprobada",
+          "proveedor": {
+            "rut": "-",
+            "nombre": "     "
+          },
+          "fecha": "",
+          "documento": {
+            "tipo": "OI",
+            "descripcion": "Otros Documentos de Ingresos",
+            "numero": "0"
+          },
+          "descripcion": "Aporte por trabajo voluntario",
+          "glosa": "APORTE TRABAJO VOLUNTARIO",
+          "monto": 1450000
+        },
+        {
+          "estado": "Aprobada",
+          "proveedor": {
+            "rut": "7452450-8",
+            "nombre": "CARLOS BIANCHI CHELECH"
+          },
+          "fecha": "",
+          "documento": {
+            "tipo": "LS",
+            "descripcion": "Liquidación de sueldo",
+            "numero": "0"
+          },
+          "descripcion": "Aporte Propio",
+          "glosa": "APORTE PERSONAL",
+          "monto": 8621941
+        }
+      ]
+    },
+    "representacion": {}
+  },
+  {
+    "senador": {
+      "id": 986,
+      "nombre": "Chahuán Chahuán, Francisco",
+      "rut": "10300626-0",
+      "region": "Región de Valparaíso",
+      "circunscripcion": 6,
+      "telefono": "(56-32) 2504673",
+      "mail": "fchahuan@senado.cl",
+      "partido": "R.N."
+    },
+    "elecciones": {},
+    "representacion": {}
+  },
+  {
+    "senador": {
+      "id": 687,
+      "nombre": "Coloma Correa, Juan Antonio",
+      "rut": "13829856-6",
+      "region": "Región del Maule",
+      "circunscripcion": 10,
+      "telefono": "(56-32) 2504505",
+      "mail": "jcoloma@senado.cl",
+      "partido": "U.D.I."
+    },
+    "elecciones": {},
+    "representacion": {}
+  },
+  {
+    "senador": {
+      "id": 1115,
+      "nombre": "De Urresti Longton, Alfonso",
+      "rut": "9062945-K",
+      "region": "Región de los Ríos",
+      "circunscripcion": 16,
+      "telefono": "l",
+      "mail": "adeurresti@senado.cl",
+      "partido": "P.S."
+    },
+    "elecciones": {
+      "ingresos": [
+        {
+          "estado": "Aprobada",
+          "proveedor": {
+            "rut": "9062945-K",
+            "nombre": "ALFONSO  DE URRESTE LONGTON"
+          },
+          "fecha": 41505,
+          "documento": {
+            "tipo": "CR",
+            "descripcion": "Contrato (usufructo, comodato, mutuo)",
+            "numero": ""
+          },
+          "descripcion": "Usufructo",
+          "glosa": "USUFRUCTO DE VEHICULO PROPIO PATENTE BZCY-36-8",
+          "monto": 1000000
+        },
+        {
+          "estado": "Aprobada",
+          "proveedor": {
+            "rut": "71706400-3",
+            "nombre": "PARTIDO SOCIALISTA DE CHILE"
+          },
+          "fecha": 41508,
+          "documento": {
+            "tipo": "CB",
+            "descripcion": "Cartola bancaria",
+            "numero": ""
+          },
+          "descripcion": "Aportes Privados de Carácter Público de Partidos Politicos",
+          "glosa": "APORTES PRIVADOS DE CARACTER PUBLICO DE PARTIDOS POLITICOS (",
+          "monto": 3000000
+        },
+        {
+          "estado": "Aprobada",
+          "proveedor": {
+            "rut": "-",
+            "nombre": "SERVEL    "
+          },
+          "fecha": 41595,
+          "documento": {
+            "tipo": "OI",
+            "descripcion": "Otros Documentos de Ingresos",
+            "numero": ""
+          },
+          "descripcion": "Aportes Reservado",
+          "glosa": "APORTES RESERVADOS",
+          "monto": 13000000
+        },
+        {
+          "estado": "Aprobada",
+          "proveedor": {
+            "rut": "71706400-3",
+            "nombre": "PARTIDO SOCIALISTA DE CHILE"
+          },
+          "fecha": 41513,
+          "documento": {
+            "tipo": "CB",
+            "descripcion": "Cartola bancaria",
+            "numero": ""
+          },
+          "descripcion": "Aportes Privados de Carácter Público de Partidos Politicos",
+          "glosa": "APORTES PRIVADOS DE CARACTER PUBLICO DE PARTIDOS POLITICOS (",
+          "monto": 8823500
+        },
+        {
+          "estado": "Aprobada",
+          "proveedor": {
+            "rut": "15267094-K",
+            "nombre": "MIXY VILLEGAS ISLA"
+          },
+          "fecha": 41505,
+          "documento": {
+            "tipo": "CR",
+            "descripcion": "Contrato (usufructo, comodato, mutuo)",
+            "numero": ""
+          },
+          "descripcion": "Usufructo",
+          "glosa": "COMODATO DE VEHICULO PATENTE RU-2056-5",
+          "monto": 500000
+        },
+        {
+          "estado": "Aprobada",
+          "proveedor": {
+            "rut": "-",
+            "nombre": "     "
+          },
+          "fecha": "",
+          "documento": {
+            "tipo": "",
+            "descripcion": "",
+            "numero": ""
+          },
+          "descripcion": "Reembolso solicitado candidato o partido",
+          "glosa": "REEEMBOLSO SOLICITADO POR EL CANDIDATO",
+          "monto": 47542048
+        },
+        {
+          "estado": "Aprobada",
+          "proveedor": {
+            "rut": "71706400-3",
+            "nombre": "PARTIDO  SOCIALISTA DE CHILE"
+          },
+          "fecha": 41590,
+          "documento": {
+            "tipo": "CB",
+            "descripcion": "Cartola bancaria",
+            "numero": ""
+          },
+          "descripcion": "Aportes Privados de Carácter Público de Partidos Politicos",
+          "glosa": "APORTES PRIVADOS DE CARACTER PUBLICO DE PARTIDOS POLITICOS ",
+          "monto": 3000000
+        },
+        {
+          "estado": "Aprobada",
+          "proveedor": {
+            "rut": "10510435-",
+            "nombre": "CAMAANO PARRA LIDIA"
+          },
+          "fecha": 41505,
+          "documento": {
+            "tipo": "CR",
+            "descripcion": "Contrato (usufructo, comodato, mutuo)",
+            "numero": ""
+          },
+          "descripcion": "Usufructo",
+          "glosa": "COMODATO DE VEHICULO PATENTE YF-4309",
+          "monto": 500000
+        },
+        {
+          "estado": "Aprobada",
+          "proveedor": {
+            "rut": "71706400-3",
+            "nombre": "PARTIDO  SOCIALISTA DE CHILE"
+          },
+          "fecha": 41571,
+          "documento": {
+            "tipo": "CB",
+            "descripcion": "Cartola bancaria",
+            "numero": ""
+          },
+          "descripcion": "Aportes Privados de Carácter Público de Partidos Politicos",
+          "glosa": "APORTES PRIVADOS DE CARACTER PUBLICO DE PARTIDOS POLITICOS (",
+          "monto": 3000000
+        },
+        {
+          "estado": "Aprobada",
+          "proveedor": {
+            "rut": "12747274-2",
+            "nombre": "ROBINSON KACHELE SOLIS"
+          },
+          "fecha": 41505,
+          "documento": {
+            "tipo": "CR",
+            "descripcion": "Contrato (usufructo, comodato, mutuo)",
+            "numero": ""
+          },
+          "descripcion": "Usufructo",
+          "glosa": "COMODATO DE VEHICULO PATENTE VP7087-8",
+          "monto": 500000
+        },
+        {
+          "estado": "Aprobada",
+          "proveedor": {
+            "rut": "11129351-1",
+            "nombre": "MUNOZ OBANDO MIGUEL"
+          },
+          "fecha": 41505,
+          "documento": {
+            "tipo": "CR",
+            "descripcion": "Contrato (usufructo, comodato, mutuo)",
+            "numero": ""
+          },
+          "descripcion": "Usufructo",
+          "glosa": "COMODATO DE VEHICULO PATENTE NH-8959-1",
+          "monto": 500000
+        }
+      ]
+    },
+    "representacion": {}
+  },
+  {
+    "senador": {
+      "id": 688,
+      "nombre": "Espina Otero, Alberto",
+      "rut": "7098992-1",
+      "region": "Región de la Araucanía",
+      "circunscripcion": 14,
+      "telefono": "(56-32) 2504508",
+      "mail": "aespina@senado.cl",
+      "partido": "R.N."
+    },
+    "elecciones": {},
+    "representacion": {}
+  },
+  {
+    "senador": {
+      "id": 1066,
+      "nombre": "García Huidobro Sanfuentes, Alejandro",
+      "rut": "6266698-6",
+      "region": "Región del Libertador General Bernardo O'Higgins",
+      "circunscripcion": 9,
+      "telefono": "(56 32) 2504667",
+      "mail": "agarciahuidobro@senado.cl",
+      "partido": "U.D.I."
+    },
+    "elecciones": {
+      "ingresos": [
+        {
+          "estado": "Aprobada",
+          "proveedor": {
+            "rut": "12316286-2",
+            "nombre": "MARIA DOLORES BRITO GALAZ"
+          },
+          "fecha": 41593,
+          "documento": {
+            "tipo": "BH",
+            "descripcion": "Boleta de Honorarios",
+            "numero": "4"
+          },
+          "descripcion": "Reembolso solicitado candidato o partido",
+          "glosa": "SERVICIO DE COORDINACION  TERRITORIAL CAMPAÑA PARLAMENTARIA",
+          "monto": 3750000
+        },
+        {
+          "estado": "Aprobada",
+          "proveedor": {
+            "rut": "-",
+            "nombre": "SERVICIO ELECTORAL  "
+          },
+          "fecha": 41568,
+          "documento": {
+            "tipo": "CB",
+            "descripcion": "Cartola bancaria",
+            "numero": "10"
+          },
+          "descripcion": "Aportes Reservado",
+          "glosa": "TRANSFERENCIA SERVEL APORTE RESERVADO",
+          "monto": 20938617
+        },
+        {
+          "estado": "Aprobada",
+          "proveedor": {
+            "rut": "-",
+            "nombre": "SERVICIO ELECTORAL  "
+          },
+          "fecha": 41596,
+          "documento": {
+            "tipo": "CB",
+            "descripcion": "Cartola bancaria",
+            "numero": "11"
+          },
+          "descripcion": "Aportes Reservado",
+          "glosa": "TRANSFERENCIA SERVEL APORTE RESERVADO",
+          "monto": 4800000
+        },
+        {
+          "estado": "Aprobada",
+          "proveedor": {
+            "rut": "-",
+            "nombre": "SERVICIO ELECTORAL  "
+          },
+          "fecha": 41554,
+          "documento": {
+            "tipo": "CB",
+            "descripcion": "Cartola bancaria",
+            "numero": "10"
+          },
+          "descripcion": "Aportes Reservado",
+          "glosa": "TRANSFERENCIA SERVEL APORTE RESERVADO",
+          "monto": 20641863
+        },
+        {
+          "estado": "Aprobada",
+          "proveedor": {
+            "rut": "-",
+            "nombre": "SERVICIO ELECTORAL  "
+          },
+          "fecha": 41540,
+          "documento": {
+            "tipo": "CB",
+            "descripcion": "Cartola bancaria",
+            "numero": "9"
+          },
+          "descripcion": "Aportes Reservado",
+          "glosa": "TRANSFERENCIA SERVEL APORTE RESERVADO",
+          "monto": 10088000
+        },
+        {
+          "estado": "Aprobada",
+          "proveedor": {
+            "rut": "71552600-K",
+            "nombre": "UNION DEMOCRATA INDEPENDIENTE"
+          },
+          "fecha": 41591,
+          "documento": {
+            "tipo": "OI",
+            "descripcion": "Otros Documentos de Ingresos",
+            "numero": "888"
+          },
+          "descripcion": "Aportes Privados de Carácter Público de Partidos Politicos",
+          "glosa": "CERTIFICADO DE APORTE FUENTE PRIVADA CARACTER PUBLICO A CAND",
+          "monto": 10000000
+        },
+        {
+          "estado": "Aprobada",
+          "proveedor": {
+            "rut": "-",
+            "nombre": "SERVICIO ELECTORAL  "
+          },
+          "fecha": 41561,
+          "documento": {
+            "tipo": "CB",
+            "descripcion": "Cartola bancaria",
+            "numero": "10"
+          },
+          "descripcion": "Aportes Reservado",
+          "glosa": "TRANSFERENCIA SERVEL APORTE RESERVADO",
+          "monto": 412837
+        },
+        {
+          "estado": "Aprobada",
+          "proveedor": {
+            "rut": "-",
+            "nombre": "SERVICIO ELECTORAL  "
+          },
+          "fecha": 41547,
+          "documento": {
+            "tipo": "CB",
+            "descripcion": "Cartola bancaria",
+            "numero": "9"
+          },
+          "descripcion": "Aportes Reservado",
+          "glosa": "TRANSFERENCIA SERVEL APORTE RESERVADO",
+          "monto": 6248880
+        },
+        {
+          "estado": "Aprobada",
+          "proveedor": {
+            "rut": "-",
+            "nombre": "SERVICIO ELECTORAL  "
+          },
+          "fecha": 41575,
+          "documento": {
+            "tipo": "CB",
+            "descripcion": "Cartola bancaria",
+            "numero": "10"
+          },
+          "descripcion": "Aportes Reservado",
+          "glosa": "TRANSFERENCIA SERVEL APORTE RESERVADO",
+          "monto": 634634
+        },
+        {
+          "estado": "Aprobada",
+          "proveedor": {
+            "rut": "-",
+            "nombre": "SERVICIO ELECTORAL  "
+          },
+          "fecha": 41597,
+          "documento": {
+            "tipo": "CB",
+            "descripcion": "Cartola bancaria",
+            "numero": ""
+          },
+          "descripcion": "Aportes Reservado",
+          "glosa": "TRANSFERENCIA SERVEL APORTE RESERVADO",
+          "monto": 200000
+        },
+        {
+          "estado": "Aprobada",
+          "proveedor": {
+            "rut": "-",
+            "nombre": "SERVICIO ELECTORAL  "
+          },
+          "fecha": 41533,
+          "documento": {
+            "tipo": "CB",
+            "descripcion": "Cartola bancaria",
+            "numero": "9"
+          },
+          "descripcion": "Aportes Reservado",
+          "glosa": "TRANSFERENCIA SERVEL APORTE RESERVADO",
+          "monto": 9600000
+        },
+        {
+          "estado": "Aprobada",
+          "proveedor": {
+            "rut": "-",
+            "nombre": "SERVICIO ELECTORAL  "
+          },
+          "fecha": 41582,
+          "documento": {
+            "tipo": "CB",
+            "descripcion": "Cartola bancaria",
+            "numero": "11"
+          },
+          "descripcion": "Aportes Reservado",
+          "glosa": "TRANSFERENCIA SERVEL APORTE RESERVADO",
+          "monto": 12952
+        },
+        {
+          "estado": "Aprobada",
+          "proveedor": {
+            "rut": "8468371-K",
+            "nombre": "GUILLERMO ARENAS ZUÑIGA"
+          },
+          "fecha": 41600,
+          "documento": {
+            "tipo": "OI",
+            "descripcion": "Otros Documentos de Ingresos",
+            "numero": "447"
+          },
+          "descripcion": "Reembolso solicitado candidato o partido",
+          "glosa": "TRANSPORTE PERSONAS",
+          "monto": 2600000
+        },
+        {
+          "estado": "Aprobada",
+          "proveedor": {
+            "rut": "6266698-6",
+            "nombre": "ALEJANDRO GARCIA-HUIDOBRO SANFUENTES"
+          },
+          "fecha": "",
+          "documento": {
+            "tipo": "OI",
+            "descripcion": "Otros Documentos de Ingresos",
+            "numero": "1414920"
+          },
+          "descripcion": "Aporte Propio",
+          "glosa": "ACREDITO PROPIEDAD CAMIONETA (PATENTE CVLJ78-0)",
+          "monto": 1645000
+        },
+        {
+          "estado": "Aprobada",
+          "proveedor": {
+            "rut": "99519030-3",
+            "nombre": "DEMOSCOPICA S.A.  "
+          },
+          "fecha": 41591,
+          "documento": {
+            "tipo": "OI",
+            "descripcion": "Otros Documentos de Ingresos",
+            "numero": "878"
+          },
+          "descripcion": "Reembolso solicitado candidato o partido",
+          "glosa": "ESTUDIOS DE OPINION PUBLICA",
+          "monto": 7157895
+        },
+        {
+          "estado": "Aprobada",
+          "proveedor": {
+            "rut": "6266698-6",
+            "nombre": "ALEJANDRO GARCIA-HUIDOBRO SANFUENTES"
+          },
+          "fecha": "",
+          "documento": {
+            "tipo": "LS",
+            "descripcion": "Liquidación de sueldo",
+            "numero": ""
+          },
+          "descripcion": "Aporte Propio",
+          "glosa": "LIQUIDACION DE SUELDO",
+          "monto": 31964968
+        },
+        {
+          "estado": "Aprobada",
+          "proveedor": {
+            "rut": "79885860-2",
+            "nombre": "SOC. IMPRESORA RYR LTDA."
+          },
+          "fecha": 41575,
+          "documento": {
+            "tipo": "OI",
+            "descripcion": "Otros Documentos de Ingresos",
+            "numero": "61553"
+          },
+          "descripcion": "Reembolso solicitado candidato o partido",
+          "glosa": "DIPTICOS Y AFICHES",
+          "monto": 20194300
+        },
+        {
+          "estado": "Aprobada",
+          "proveedor": {
+            "rut": "76218352-8",
+            "nombre": "COMERCIAL PILAR ANDREA VIDAL AROS"
+          },
+          "fecha": 41593,
+          "documento": {
+            "tipo": "OI",
+            "descripcion": "Otros Documentos de Ingresos",
+            "numero": "16"
+          },
+          "descripcion": "Reembolso solicitado candidato o partido",
+          "glosa": "ARMADO COLGADO PALOMAS",
+          "monto": 15450000
+        },
+        {
+          "estado": "Aprobada",
+          "proveedor": {
+            "rut": "6266698-6",
+            "nombre": "ALEJANDRO GARCIA-HUIDOBRO SANFUENTES"
+          },
+          "fecha": 41548,
+          "documento": {
+            "tipo": "OI",
+            "descripcion": "Otros Documentos de Ingresos",
+            "numero": "7602971"
+          },
+          "descripcion": "Aporte Propio",
+          "glosa": "ACREDITO PROPIEDAD CAMIONETA (PATENTE CTJL50-8)",
+          "monto": 1645000
+        }
+      ]
+    },
+    "representacion": {}
+  },
+  {
+    "senador": {
+      "id": 690,
+      "nombre": "García Ruminot, José",
+      "rut": "7169241-8",
+      "region": "Región de la Araucanía",
+      "circunscripcion": 15,
+      "telefono": "(56-32) 2504512",
+      "mail": "jgarcia@senado.cl",
+      "partido": "R.N."
+    },
+    "elecciones": {},
+    "representacion": {}
+  },
+  {
+    "senador": {
+      "id": 909,
+      "nombre": "Girardi Lavín, Guido",
+      "rut": "8462985-5",
+      "region": "Región Metropolitana ",
+      "circunscripcion": 7,
+      "telefono": "(56-32) 2504570",
+      "mail": "ggirardi@senado.cl",
+      "partido": "P.P.D."
+    },
+    "elecciones": {
+      "ingresos": [
+        {
+          "estado": "Aprobada",
+          "proveedor": {
+            "rut": "995576805-",
+            "nombre": "IDEAS Y PROYECTOS S. A  "
+          },
+          "fecha": 41586,
+          "documento": {
+            "tipo": "",
+            "descripcion": "",
+            "numero": "1199"
+          },
+          "descripcion": "Reembolso solicitado candidato o partido",
+          "glosa": "ARRIENDO ESTRUCTURAS PUBLICI",
+          "monto": 35700000
+        },
+        {
+          "estado": "Aprobada",
+          "proveedor": {
+            "rut": "605040004-",
+            "nombre": "SERVEL    "
+          },
+          "fecha": 41590,
+          "documento": {
+            "tipo": "OI",
+            "descripcion": "Otros Documentos de Ingresos",
+            "numero": "12112013"
+          },
+          "descripcion": "Aportes Reservado",
+          "glosa": "APORTE RESERVADO DINERO",
+          "monto": 1078000
+        },
+        {
+          "estado": "Aprobada",
+          "proveedor": {
+            "rut": "84629855-",
+            "nombre": "GUIDO GIRARDI LAVIN    "
+          },
+          "fecha": 41505,
+          "documento": {
+            "tipo": "CR",
+            "descripcion": "Contrato (usufructo, comodato, mutuo)",
+            "numero": "19820132"
+          },
+          "descripcion": "Usufructo",
+          "glosa": "APORTE SEDE",
+          "monto": 1500000
+        },
+        {
+          "estado": "Aprobada",
+          "proveedor": {
+            "rut": "970000005-",
+            "nombre": "BANCO CHILE    "
+          },
+          "fecha": 41575,
+          "documento": {
+            "tipo": "OI",
+            "descripcion": "Otros Documentos de Ingresos",
+            "numero": "28102013"
+          },
+          "descripcion": "Créditos con Instituciones Financieras",
+          "glosa": "CREDITO",
+          "monto": 51209168
+        },
+        {
+          "estado": "Aprobada",
+          "proveedor": {
+            "rut": "60518297-",
+            "nombre": "JORGE GOMEZ PEREZ    "
+          },
+          "fecha": 41593,
+          "documento": {
+            "tipo": "OI",
+            "descripcion": "Otros Documentos de Ingresos",
+            "numero": "336"
+          },
+          "descripcion": "Reembolso solicitado candidato o partido",
+          "glosa": "ARRIENDO 3 BUSES TRASLADO",
+          "monto": 18000000
+        },
+        {
+          "estado": "Aprobada",
+          "proveedor": {
+            "rut": "605040004-",
+            "nombre": "SERVEL    "
+          },
+          "fecha": 41575,
+          "documento": {
+            "tipo": "OI",
+            "descripcion": "Otros Documentos de Ingresos",
+            "numero": "28102013"
+          },
+          "descripcion": "Aportes Reservado",
+          "glosa": "APORTE RESERVADO DINERO",
+          "monto": 16018438
+        },
+        {
+          "estado": "Aprobada",
+          "proveedor": {
+            "rut": "605040004-",
+            "nombre": "SERVEL    "
+          },
+          "fecha": 41533,
+          "documento": {
+            "tipo": "OI",
+            "descripcion": "Otros Documentos de Ingresos",
+            "numero": "1692013"
+          },
+          "descripcion": "Aportes Reservado",
+          "glosa": "APORTE RESERVADO DINERO",
+          "monto": 84661600
+        },
+        {
+          "estado": "Aprobada",
+          "proveedor": {
+            "rut": "605040004-",
+            "nombre": "SERVEL    "
+          },
+          "fecha": 41589,
+          "documento": {
+            "tipo": "OI",
+            "descripcion": "Otros Documentos de Ingresos",
+            "numero": "11112013"
+          },
+          "descripcion": "Aportes Reservado",
+          "glosa": "APORTE RESERVADO DINERO",
+          "monto": 14400000
+        },
+        {
+          "estado": "Aprobada",
+          "proveedor": {
+            "rut": "605040004-",
+            "nombre": "SERVEL    "
+          },
+          "fecha": 41568,
+          "documento": {
+            "tipo": "OI",
+            "descripcion": "Otros Documentos de Ingresos",
+            "numero": "21102013"
+          },
+          "descripcion": "Aportes Reservado",
+          "glosa": "APORTE RESERVADO DINERO",
+          "monto": 49631149
+        },
+        {
+          "estado": "Aprobada",
+          "proveedor": {
+            "rut": "765891205-",
+            "nombre": "PECADO KAPITAL GESTI ON C  "
+          },
+          "fecha": 41592,
+          "documento": {
+            "tipo": "",
+            "descripcion": "",
+            "numero": "538"
+          },
+          "descripcion": "Reembolso solicitado candidato o partido",
+          "glosa": "DISENO PRODUCCION CAMPAN",
+          "monto": 23800000
+        },
+        {
+          "estado": "Aprobada",
+          "proveedor": {
+            "rut": "605040004-",
+            "nombre": "SERVEL    "
+          },
+          "fecha": 41526,
+          "documento": {
+            "tipo": "OI",
+            "descripcion": "Otros Documentos de Ingresos",
+            "numero": "992013"
+          },
+          "descripcion": "Aportes Reservado",
+          "glosa": "APORTE RESERVADO DINERO",
+          "monto": 62720000
+        },
+        {
+          "estado": "Aprobada",
+          "proveedor": {
+            "rut": "84629855-",
+            "nombre": "GUIDO GIRARDI LAVIN    "
+          },
+          "fecha": 41505,
+          "documento": {
+            "tipo": "CR",
+            "descripcion": "Contrato (usufructo, comodato, mutuo)",
+            "numero": "19820131"
+          },
+          "descripcion": "Aporte Propio",
+          "glosa": "APORTE VEHICULO",
+          "monto": 2180360
+        },
+        {
+          "estado": "Aprobada",
+          "proveedor": {
+            "rut": "84629855-",
+            "nombre": "GUIDO GIRARDI LAVIN    "
+          },
+          "fecha": 41505,
+          "documento": {
+            "tipo": "CR",
+            "descripcion": "Contrato (usufructo, comodato, mutuo)",
+            "numero": "1982013"
+          },
+          "descripcion": "Aporte Propio",
+          "glosa": "APORTE VEHICULO",
+          "monto": 3521700
+        },
+        {
+          "estado": "Aprobada",
+          "proveedor": {
+            "rut": "605040004-",
+            "nombre": "SERVEL    "
+          },
+          "fecha": 41597,
+          "documento": {
+            "tipo": "OI",
+            "descripcion": "Otros Documentos de Ingresos",
+            "numero": "19112013"
+          },
+          "descripcion": "Aportes Reservado",
+          "glosa": "APORTE RESERVADO DINERO",
+          "monto": 507958
+        },
+        {
+          "estado": "Aprobada",
+          "proveedor": {
+            "rut": "970000005-",
+            "nombre": "BANCO CHILE    "
+          },
+          "fecha": 41533,
+          "documento": {
+            "tipo": "OI",
+            "descripcion": "Otros Documentos de Ingresos",
+            "numero": "1692013"
+          },
+          "descripcion": "Créditos con Instituciones Financieras",
+          "glosa": "CREDITO",
+          "monto": 103597000
+        },
+        {
+          "estado": "Aprobada",
+          "proveedor": {
+            "rut": "760979228-",
+            "nombre": "TRES GROUP IMPRESORE S S  "
+          },
+          "fecha": 41547,
+          "documento": {
+            "tipo": "OI",
+            "descripcion": "Otros Documentos de Ingresos",
+            "numero": "726"
+          },
+          "descripcion": "Reembolso solicitado candidato o partido",
+          "glosa": "PERIODICOS",
+          "monto": 21131448
+        },
+        {
+          "estado": "Aprobada",
+          "proveedor": {
+            "rut": "605040004-",
+            "nombre": "SERVEL    "
+          },
+          "fecha": 41582,
+          "documento": {
+            "tipo": "OI",
+            "descripcion": "Otros Documentos de Ingresos",
+            "numero": "4112013"
+          },
+          "descripcion": "Aportes Reservado",
+          "glosa": "APORTE RESERVADO DINERO",
+          "monto": 18626907
+        },
+        {
+          "estado": "Aprobada",
+          "proveedor": {
+            "rut": "605040004-",
+            "nombre": "SERVEL    "
+          },
+          "fecha": 41561,
+          "documento": {
+            "tipo": "OI",
+            "descripcion": "Otros Documentos de Ingresos",
+            "numero": "14102013"
+          },
+          "descripcion": "Aportes Reservado",
+          "glosa": "APORTE RESERVADO DINERO",
+          "monto": 81481604
+        },
+        {
+          "estado": "Aprobada",
+          "proveedor": {
+            "rut": "605040004-",
+            "nombre": "SERVEL    "
+          },
+          "fecha": 41554,
+          "documento": {
+            "tipo": "OI",
+            "descripcion": "Otros Documentos de Ingresos",
+            "numero": "7102013"
+          },
+          "descripcion": "Aportes Reservado",
+          "glosa": "APORTE RESERVADO DINERO",
+          "monto": 36395513
+        },
+        {
+          "estado": "Aprobada",
+          "proveedor": {
+            "rut": "605040004-",
+            "nombre": "SERVEL    "
+          },
+          "fecha": 41596,
+          "documento": {
+            "tipo": "OI",
+            "descripcion": "Otros Documentos de Ingresos",
+            "numero": "18112013"
+          },
+          "descripcion": "Aportes Reservado",
+          "glosa": "APORTE RESERVADO DINERO",
+          "monto": 24889942
+        },
+        {
+          "estado": "Aprobada",
+          "proveedor": {
+            "rut": "605040004-",
+            "nombre": "SERVEL    "
+          },
+          "fecha": 41547,
+          "documento": {
+            "tipo": "OI",
+            "descripcion": "Otros Documentos de Ingresos",
+            "numero": "3092013"
+          },
+          "descripcion": "Aportes Reservado",
+          "glosa": "APORTE RESERVADO DINERO",
+          "monto": 49183594
+        },
+        {
+          "estado": "Aprobada",
+          "proveedor": {
+            "rut": "605040004-",
+            "nombre": "SERVEL    "
+          },
+          "fecha": 41540,
+          "documento": {
+            "tipo": "OI",
+            "descripcion": "Otros Documentos de Ingresos",
+            "numero": "2392013"
+          },
+          "descripcion": "Aportes Reservado",
+          "glosa": "APORTE RESERVADO DINERO",
+          "monto": 64913664
+        }
+      ]
+    },
+    "representacion": {}
+  },
+  {
+    "senador": {
+      "id": 1113,
+      "nombre": "Goic Boroevic, Carolina",
+      "rut": "8124187-2",
+      "region": "Región de Magallanes y la Antártica Chilena\n\n",
+      "circunscripcion": 19,
+      "telefono": "(56-32) 2504707",
+      "mail": "cgoic@senado.cl",
+      "partido": "P.D.C."
+    },
+    "elecciones": {
+      "ingresos": [
+        {
+          "estado": "Aprobada",
+          "proveedor": {
+            "rut": "71468400-0",
+            "nombre": "PARTIDO DEMOCRATA CR ISTIANO  "
+          },
+          "fecha": "",
+          "documento": {
+            "tipo": "",
+            "descripcion": "",
+            "numero": "0"
+          },
+          "descripcion": "Aportes Privados de Carácter Público de Partidos Politicos",
+          "glosa": "APORTE PARTI DO POLITICO PDC",
+          "monto": 15000000
+        },
+        {
+          "estado": "Aprobada",
+          "proveedor": {
+            "rut": "-",
+            "nombre": "SERVICIO ELECTORAL    "
+          },
+          "fecha": "",
+          "documento": {
+            "tipo": "",
+            "descripcion": "",
+            "numero": "0"
+          },
+          "descripcion": "Aportes Reservado",
+          "glosa": "APORTES RESERVADOS",
+          "monto": 66500000
+        },
+        {
+          "estado": "Aprobada",
+          "proveedor": {
+            "rut": "-",
+            "nombre": "     "
+          },
+          "fecha": "",
+          "documento": {
+            "tipo": "",
+            "descripcion": "",
+            "numero": "0"
+          },
+          "descripcion": "Reembolso solicitado candidato o partido",
+          "glosa": "REEMBOLSO SOLICITADO POR EL CANDIDATO",
+          "monto": 16000000
+        }
+      ]
+    },
+    "representacion": {}
+  },
+  {
+    "senador": {
+      "id": 1111,
+      "nombre": "Guillier Álvarez, Alejandro",
+      "rut": "7054381-8",
+      "region": "Región de Antofagasta",
+      "circunscripcion": 2,
+      "telefono": "l",
+      "mail": "aguillier@senado.cl",
+      "partido": "Independiente"
+    },
+    "elecciones": {
+      "ingresos": [
+        {
+          "estado": "Aprobada",
+          "proveedor": {
+            "rut": "60504000-4",
+            "nombre": "SERVICIO ELECTORAL  "
+          },
+          "fecha": 41595,
+          "documento": {
+            "tipo": "",
+            "descripcion": "",
+            "numero": ""
+          },
+          "descripcion": "Aportes Reservado",
+          "glosa": "APORTES RESERVADOS",
+          "monto": 51000000
+        },
+        {
+          "estado": "Aprobada",
+          "proveedor": {
+            "rut": "71706400-3",
+            "nombre": "  PARTIDO SOCIALISTA DE CHILE  "
+          },
+          "fecha": 41558,
+          "documento": {
+            "tipo": "",
+            "descripcion": "",
+            "numero": ""
+          },
+          "descripcion": "Aportes Privados de Carácter Público de Partidos Politicos",
+          "glosa": "APORTES PRIVADOS DE CARACTER PUBLICO DE PARTIDOS POLITICOS",
+          "monto": 10000000
+        },
+        {
+          "estado": "Aprobada",
+          "proveedor": {
+            "rut": "71706400-3",
+            "nombre": "  PARTIDO SOCIALISTA DE CHILE  "
+          },
+          "fecha": "",
+          "documento": {
+            "tipo": "",
+            "descripcion": "",
+            "numero": ""
+          },
+          "descripcion": "Aportes Privados de Carácter Público de Partidos Politicos",
+          "glosa": "APORTES PRIVADOS DE CARACTER PUBLICO DE PARTIDOS POLITICOS",
+          "monto": 3000000
+        },
+        {
+          "estado": "Aprobada",
+          "proveedor": {
+            "rut": "-",
+            "nombre": "     "
+          },
+          "fecha": 41595,
+          "documento": {
+            "tipo": "",
+            "descripcion": "",
+            "numero": ""
+          },
+          "descripcion": "Aportes Anónimos",
+          "glosa": "APORTES ANONIMOS (2 APORTES)",
+          "monto": 550000
+        },
+        {
+          "estado": "Aprobada",
+          "proveedor": {
+            "rut": "84771900-1",
+            "nombre": "INMOBILIARIA CONOSUR  "
+          },
+          "fecha": 41505,
+          "documento": {
+            "tipo": "",
+            "descripcion": "",
+            "numero": ""
+          },
+          "descripcion": "Aportes Privados de Carácter Público",
+          "glosa": "OFICINA ENTREGA EN COMODATO",
+          "monto": 1840000
+        },
+        {
+          "estado": "Aprobada",
+          "proveedor": {
+            "rut": "72551500-6",
+            "nombre": "PARTIDO RADICAL SOCIALDEMOCRATA  "
+          },
+          "fecha": 41576,
+          "documento": {
+            "tipo": "CD",
+            "descripcion": "Certificado de donación",
+            "numero": "1"
+          },
+          "descripcion": "Aportes Privados de Carácter Público de Partidos Politicos",
+          "glosa": "APORTES PRIVADO DE CARACTER PUBLICO DE PARTIDOS POLITICOS",
+          "monto": 5000000
+        },
+        {
+          "estado": "Aprobada",
+          "proveedor": {
+            "rut": "7054381-8",
+            "nombre": "ALEJANDRO GUILLIER ALVAREZ  "
+          },
+          "fecha": 41595,
+          "documento": {
+            "tipo": "",
+            "descripcion": "",
+            "numero": ""
+          },
+          "descripcion": "Aporte Propio",
+          "glosa": "USUFRUCTO DE VEHICULO PERSONAL PAT. FK-WB 21 KIA 5",
+          "monto": 1800000
+        },
+        {
+          "estado": "Aprobada",
+          "proveedor": {
+            "rut": "71706400-3",
+            "nombre": "  PARTIDO SOCIALISTA DE CHILE  "
+          },
+          "fecha": 41563,
+          "documento": {
+            "tipo": "",
+            "descripcion": "",
+            "numero": ""
+          },
+          "descripcion": "Aportes Privados de Carácter Público de Partidos Politicos",
+          "glosa": "APORTES PRIVADOS DE CARACTER PUBLICO DE PARTIDOS POLITICOS",
+          "monto": 5000000
+        },
+        {
+          "estado": "Aprobada",
+          "proveedor": {
+            "rut": "-",
+            "nombre": "REEMBOLSO SOLICITADO  "
+          },
+          "fecha": 41595,
+          "documento": {
+            "tipo": "",
+            "descripcion": "",
+            "numero": ""
+          },
+          "descripcion": "Reembolso solicitado candidato o partido",
+          "glosa": "REEMBOLSO SOLICITADO POR CANDIDATO (2 FACTURAS)",
+          "monto": 44037735
+        },
+        {
+          "estado": "Aprobada",
+          "proveedor": {
+            "rut": "72551500-6",
+            "nombre": "PARTIDO RADICAL SOCIALDEMOCRATA  "
+          },
+          "fecha": 41586,
+          "documento": {
+            "tipo": "CD",
+            "descripcion": "Certificado de donación",
+            "numero": "2"
+          },
+          "descripcion": "Aportes Privados de Carácter Público de Partidos Politicos",
+          "glosa": "APORTES PRIVADO DE CARACTER PUBLICO DE PARTIDOS POLITICOS",
+          "monto": 3000000
+        }
+      ]
+    },
+    "representacion": {}
+  },
+  {
+    "senador": {
+      "id": 1114,
+      "nombre": "Harboe Bascuñán, Felipe",
+      "rut": "8826664-1",
+      "region": "Región del Bío-Bío",
+      "circunscripcion": 13,
+      "telefono": "(56-32) 2504711",
+      "mail": "fharboe@senado.cl",
+      "partido": "P.P.D."
+    },
+    "elecciones": {
+      "ingresos": [
+        {
+          "estado": "Aprobada",
+          "proveedor": {
+            "rut": "71455400-K",
+            "nombre": " \tPARTIDO POR LA DEMOC RACIA  "
+          },
+          "fecha": 41575,
+          "documento": {
+            "tipo": "OI",
+            "descripcion": "Otros Documentos de Ingresos",
+            "numero": "28102013"
+          },
+          "descripcion": "Aportes Privados de Carácter Público de Partidos Politicos",
+          "glosa": "APORTE DINERO",
+          "monto": 4000000
+        },
+        {
+          "estado": "Aprobada",
+          "proveedor": {
+            "rut": "761175084-",
+            "nombre": "SEPAL IMPRESORES LTD A  "
+          },
+          "fecha": 41593,
+          "documento": {
+            "tipo": "OI",
+            "descripcion": "Otros Documentos de Ingresos",
+            "numero": "408"
+          },
+          "descripcion": "Reembolso solicitado candidato o partido",
+          "glosa": "TABLOIDES,VOLANTES HOJAS",
+          "monto": 23800000
+        },
+        {
+          "estado": "Aprobada",
+          "proveedor": {
+            "rut": "71455400-K",
+            "nombre": "PARTIDO POR LA DEMOC RACI  "
+          },
+          "fecha": 41586,
+          "documento": {
+            "tipo": "OI",
+            "descripcion": "Otros Documentos de Ingresos",
+            "numero": "8112013"
+          },
+          "descripcion": "Aportes Privados de Carácter Público de Partidos Politicos",
+          "glosa": "APORTE DINERO",
+          "monto": 1000000
+        },
+        {
+          "estado": "Aprobada",
+          "proveedor": {
+            "rut": "161232661-",
+            "nombre": "ALEJANDRO VEGA CAMPO S  "
+          },
+          "fecha": 41592,
+          "documento": {
+            "tipo": "BH",
+            "descripcion": "Boleta de Honorarios",
+            "numero": "4"
+          },
+          "descripcion": "Reembolso solicitado candidato o partido",
+          "glosa": "DIRECCION DE EQUIPO",
+          "monto": 7000000
+        },
+        {
+          "estado": "Aprobada",
+          "proveedor": {
+            "rut": "130545823-",
+            "nombre": "CRISTIAN VALDES ZUNI GA  "
+          },
+          "fecha": 41593,
+          "documento": {
+            "tipo": "BH",
+            "descripcion": "Boleta de Honorarios",
+            "numero": "115"
+          },
+          "descripcion": "Reembolso solicitado candidato o partido",
+          "glosa": "MANTENCION Y DISENO PLATA",
+          "monto": 4000000
+        },
+        {
+          "estado": "Aprobada",
+          "proveedor": {
+            "rut": "71455400-K",
+            "nombre": "PARTIDO POR LA DEMOC RACIA  "
+          },
+          "fecha": 41605,
+          "documento": {
+            "tipo": "OI",
+            "descripcion": "Otros Documentos de Ingresos",
+            "numero": "27112013"
+          },
+          "descripcion": "Aportes Privados de Carácter Público de Partidos Politicos",
+          "glosa": "APORTE DINERO",
+          "monto": 3000000
+        },
+        {
+          "estado": "Aprobada",
+          "proveedor": {
+            "rut": "965398201-",
+            "nombre": "ALERCE TALLERES GR¿F ICOS S.  "
+          },
+          "fecha": 41589,
+          "documento": {
+            "tipo": "OI",
+            "descripcion": "Otros Documentos de Ingresos",
+            "numero": "10776"
+          },
+          "descripcion": "Reembolso solicitado candidato o partido",
+          "glosa": "VOLANTES,DIPTICOS HOJAS",
+          "monto": 11935700
+        },
+        {
+          "estado": "Aprobada",
+          "proveedor": {
+            "rut": "789810109-",
+            "nombre": "IMPRESOS HELVETIA    "
+          },
+          "fecha": 41592,
+          "documento": {
+            "tipo": "OI",
+            "descripcion": "Otros Documentos de Ingresos",
+            "numero": "19017"
+          },
+          "descripcion": "Reembolso solicitado candidato o partido",
+          "glosa": "INVITACIONES Y VOLANTES",
+          "monto": 1016000
+        },
+        {
+          "estado": "Aprobada",
+          "proveedor": {
+            "rut": "789810109-",
+            "nombre": "IMPRESOS HELVETIA    "
+          },
+          "fecha": 41577,
+          "documento": {
+            "tipo": "OI",
+            "descripcion": "Otros Documentos de Ingresos",
+            "numero": "18878"
+          },
+          "descripcion": "Reembolso solicitado candidato o partido",
+          "glosa": "INFORMATIVOS",
+          "monto": 15060000
+        },
+        {
+          "estado": "Aprobada",
+          "proveedor": {
+            "rut": "520007148-",
+            "nombre": "MKT STREET    "
+          },
+          "fecha": 41592,
+          "documento": {
+            "tipo": "OI",
+            "descripcion": "Otros Documentos de Ingresos",
+            "numero": "2342"
+          },
+          "descripcion": "Reembolso solicitado candidato o partido",
+          "glosa": "ARRIENDO SOPORTES PUBLICITAR",
+          "monto": 5176500
+        },
+        {
+          "estado": "Aprobada",
+          "proveedor": {
+            "rut": "107346732-",
+            "nombre": "CAMILO BENAVENTE JIM ENE  "
+          },
+          "fecha": 41592,
+          "documento": {
+            "tipo": "BH",
+            "descripcion": "Boleta de Honorarios",
+            "numero": "18"
+          },
+          "descripcion": "Reembolso solicitado candidato o partido",
+          "glosa": "ASESORIA COMUNICAIONAL",
+          "monto": 6000000
+        },
+        {
+          "estado": "Aprobada",
+          "proveedor": {
+            "rut": "13835637-K",
+            "nombre": "  GERM¿N PINO MATURANA  "
+          },
+          "fecha": 41593,
+          "documento": {
+            "tipo": "BH",
+            "descripcion": "Boleta de Honorarios",
+            "numero": "38"
+          },
+          "descripcion": "Reembolso solicitado candidato o partido",
+          "glosa": "ASESORIA TERRITORIAL",
+          "monto": 6000000
+        },
+        {
+          "estado": "Aprobada",
+          "proveedor": {
+            "rut": "605040004-",
+            "nombre": "SERVEL    "
+          },
+          "fecha": 41505,
+          "documento": {
+            "tipo": "LS",
+            "descripcion": "Liquidación de sueldo",
+            "numero": "13"
+          },
+          "descripcion": "Aportes Reservado",
+          "glosa": "APORTE DINERO",
+          "monto": 272111116
+        },
+        {
+          "estado": "Aprobada",
+          "proveedor": {
+            "rut": "164454436-",
+            "nombre": "ERNESTO GUTI¿RREZ AL VAREZ  "
+          },
+          "fecha": 41593,
+          "documento": {
+            "tipo": "BH",
+            "descripcion": "Boleta de Honorarios",
+            "numero": "3"
+          },
+          "descripcion": "Reembolso solicitado candidato o partido",
+          "glosa": "INSTALACION V RETIRO PROPAGA",
+          "monto": 5000000
+        },
+        {
+          "estado": "Aprobada",
+          "proveedor": {
+            "rut": "71455400-K",
+            "nombre": "PARTIDO POR LA DEMOC RACIA  "
+          },
+          "fecha": 41543,
+          "documento": {
+            "tipo": "OI",
+            "descripcion": "Otros Documentos de Ingresos",
+            "numero": "2692013"
+          },
+          "descripcion": "Aportes Privados de Carácter Público de Partidos Politicos",
+          "glosa": "APORTE DINERO",
+          "monto": 26000000
+        }
+      ]
+    },
+    "representacion": {}
+  },
+  {
+    "senador": {
+      "id": 58,
+      "nombre": "Horvath Kiss, Antonio",
+      "rut": "10530214-2",
+      "region": "Región de Aysén del General Carlos Ibáñez del Campo ",
+      "circunscripcion": 18,
+      "telefono": "(56-32) 2504427",
+      "mail": "ahorvath@senado.cl",
+      "partido": "Independiente"
+    },
+    "elecciones": {},
+    "representacion": {}
+  },
+  {
+    "senador": {
+      "id": 987,
+      "nombre": "Lagos Weber, Ricardo",
+      "rut": "7938007-5",
+      "region": "Región de Valparaíso",
+      "circunscripcion": 6,
+      "telefono": "(56-32) 2504675",
+      "mail": "rlagos@senado.cl",
+      "partido": "P.P.D."
+    },
+    "elecciones": {},
+    "representacion": {}
+  },
+  {
+    "senador": {
+      "id": 34,
+      "nombre": "Larraín Fernández, Hernán",
+      "rut": "4773836-9",
+      "region": "Región del Maule",
+      "circunscripcion": 11,
+      "telefono": "(56-32) 2504423",
+      "mail": "hlarrain@senado.cl",
+      "partido": "U.D.I."
+    },
+    "elecciones": {},
+    "representacion": {}
+  },
+  {
+    "senador": {
+      "id": 912,
+      "nombre": "Letelier Morel, Juan Pablo",
+      "rut": "7049575-9",
+      "region": "Región del Libertador General Bernardo O'Higgins",
+      "circunscripcion": 9,
+      "telefono": "(56-32) 2504576",
+      "mail": "jpletelier@senado.cl",
+      "partido": "P.S."
+    },
+    "elecciones": {
+      "ingresos": [
+        {
+          "estado": "Aprobada",
+          "proveedor": {
+            "rut": "-",
+            "nombre": "  APORTES ANONIMOS  "
+          },
+          "fecha": 41595,
+          "documento": {
+            "tipo": "OI",
+            "descripcion": "Otros Documentos de Ingresos",
+            "numero": ""
+          },
+          "descripcion": "Aportes Anónimos",
+          "glosa": "APORTES ANONIMOS",
+          "monto": 78037
+        },
+        {
+          "estado": "Aprobada",
+          "proveedor": {
+            "rut": "-",
+            "nombre": "  SERVEL  "
+          },
+          "fecha": 41595,
+          "documento": {
+            "tipo": "OI",
+            "descripcion": "Otros Documentos de Ingresos",
+            "numero": ""
+          },
+          "descripcion": "Aportes Reservado",
+          "glosa": "APORTES RESERVADOS",
+          "monto": 85077785
+        },
+        {
+          "estado": "Aprobada",
+          "proveedor": {
+            "rut": "71706400-3",
+            "nombre": "  PARTIDO SOCIALISTA D E CHILE"
+          },
+          "fecha": 41585,
+          "documento": {
+            "tipo": "CB",
+            "descripcion": "Cartola bancaria",
+            "numero": ""
+          },
+          "descripcion": "Aportes Privados de Carácter Público de Partidos Politicos",
+          "glosa": "APORTES PRIVADOS DE CARACTER PUBLICO PARTIDO POLITICO",
+          "monto": 3000000
+        },
+        {
+          "estado": "Aprobada",
+          "proveedor": {
+            "rut": "71706400-3",
+            "nombre": "  PARTIDO SOCIALISTA DE CHILE  "
+          },
+          "fecha": 41585,
+          "documento": {
+            "tipo": "CB",
+            "descripcion": "Cartola bancaria",
+            "numero": ""
+          },
+          "descripcion": "Aportes Privados de Carácter Público de Partidos Politicos",
+          "glosa": "APORTES PRIVADOS DE CARACTER PUBLICO PARTIDO POLITICO",
+          "monto": 10000000
+        },
+        {
+          "estado": "Aprobada",
+          "proveedor": {
+            "rut": "7806725-",
+            "nombre": "  SABINO BRAVO NUÑEZ SERRANO"
+          },
+          "fecha": 41505,
+          "documento": {
+            "tipo": "CR",
+            "descripcion": "Contrato (usufructo, comodato, mutuo)",
+            "numero": ""
+          },
+          "descripcion": "Usufructo",
+          "glosa": "COMODATO VEHICULO PATENTE BLFBF32-2YR7543-6",
+          "monto": 700000
+        },
+        {
+          "estado": "Aprobada",
+          "proveedor": {
+            "rut": "15104836-6",
+            "nombre": "  DIEGO BRIONES SERRANO  "
+          },
+          "fecha": 41505,
+          "documento": {
+            "tipo": "CR",
+            "descripcion": "Contrato (usufructo, comodato, mutuo)",
+            "numero": ""
+          },
+          "descripcion": "Usufructo",
+          "glosa": "COMODATO VEHICULO PATENTE YR7543-6",
+          "monto": 700000
+        },
+        {
+          "estado": "Aprobada",
+          "proveedor": {
+            "rut": "15123715-",
+            "nombre": "  JHALIMI SARRUA DELGADO  "
+          },
+          "fecha": 41505,
+          "documento": {
+            "tipo": "CR",
+            "descripcion": "Contrato (usufructo, comodato, mutuo)",
+            "numero": ""
+          },
+          "descripcion": "Usufructo",
+          "glosa": "COMODATO VEHICULO PATENTE WW2231-5",
+          "monto": 800000
+        },
+        {
+          "estado": "Aprobada",
+          "proveedor": {
+            "rut": "71706400-3",
+            "nombre": "  PARTIDO SOCIALISTA DE CHILE  "
+          },
+          "fecha": 41508,
+          "documento": {
+            "tipo": "CB",
+            "descripcion": "Cartola bancaria",
+            "numero": ""
+          },
+          "descripcion": "Aportes Privados de Carácter Público de Partidos Politicos",
+          "glosa": "APORTES PRIVADOS DE CARACTER PUBLICO PARTIDO POLITICO",
+          "monto": 3000000
+        },
+        {
+          "estado": "Aprobada",
+          "proveedor": {
+            "rut": "71706400-3",
+            "nombre": "  PARTIDO SOCIALISTA D E CHILE"
+          },
+          "fecha": 41526,
+          "documento": {
+            "tipo": "CB",
+            "descripcion": "Cartola bancaria",
+            "numero": ""
+          },
+          "descripcion": "Aportes Privados de Carácter Público de Partidos Politicos",
+          "glosa": "APORTES PRIVADOS DE CARACTER PUBLICO PARTIDO POLITICO",
+          "monto": 500000
+        },
+        {
+          "estado": "Aprobada",
+          "proveedor": {
+            "rut": "10886648-",
+            "nombre": "  RAMON NARVAI POBLETE SERRANO"
+          },
+          "fecha": 41505,
+          "documento": {
+            "tipo": "CR",
+            "descripcion": "Contrato (usufructo, comodato, mutuo)",
+            "numero": ""
+          },
+          "descripcion": "Usufructo",
+          "glosa": "COMODATO VEHICULO PATENTE EZ3438-0",
+          "monto": 400000
+        },
+        {
+          "estado": "Aprobada",
+          "proveedor": {
+            "rut": "7771635-1",
+            "nombre": "  MIRTA MELLA GODOY  "
+          },
+          "fecha": 41505,
+          "documento": {
+            "tipo": "CR",
+            "descripcion": "Contrato (usufructo, comodato, mutuo)",
+            "numero": ""
+          },
+          "descripcion": "Usufructo",
+          "glosa": "COMODATO VEHICULO PATENTE BSJX71-1",
+          "monto": 700000
+        },
+        {
+          "estado": "Aprobada",
+          "proveedor": {
+            "rut": "11950200-4",
+            "nombre": "  WILSON VALDIVIA MONTECINOS  "
+          },
+          "fecha": 41505,
+          "documento": {
+            "tipo": "CR",
+            "descripcion": "Contrato (usufructo, comodato, mutuo)",
+            "numero": ""
+          },
+          "descripcion": "Usufructo",
+          "glosa": "COMODATO VEHICULO PATENTE UH6607-K",
+          "monto": 700000
+        },
+        {
+          "estado": "Aprobada",
+          "proveedor": {
+            "rut": "-",
+            "nombre": "     "
+          },
+          "fecha": "",
+          "documento": {
+            "tipo": "",
+            "descripcion": "",
+            "numero": ""
+          },
+          "descripcion": "Reembolso solicitado candidato o partido",
+          "glosa": "",
+          "monto": 113214190
+        },
+        {
+          "estado": "Aprobada",
+          "proveedor": {
+            "rut": "6305992-",
+            "nombre": "  GUILLERMO  "
+          },
+          "fecha": 41505,
+          "documento": {
+            "tipo": "CR",
+            "descripcion": "Contrato (usufructo, comodato, mutuo)",
+            "numero": ""
+          },
+          "descripcion": "Usufructo",
+          "glosa": "COMODATO VEHICULO PATENTE ZX9672-K",
+          "monto": 700000
+        },
+        {
+          "estado": "Aprobada",
+          "proveedor": {
+            "rut": "-",
+            "nombre": "  NOMINA DE TRABAJO VOLUNTARIO  "
+          },
+          "fecha": 41505,
+          "documento": {
+            "tipo": "OI",
+            "descripcion": "Otros Documentos de Ingresos",
+            "numero": ""
+          },
+          "descripcion": "Aporte por trabajo voluntario",
+          "glosa": "APORTES POR TRABAJOS VOLUNTARIO",
+          "monto": 32000000
+        },
+        {
+          "estado": "Aprobada",
+          "proveedor": {
+            "rut": "71706400-3",
+            "nombre": "  PARTIDO SOCIALISTA D E CHILE"
+          },
+          "fecha": 41508,
+          "documento": {
+            "tipo": "CB",
+            "descripcion": "Cartola bancaria",
+            "numero": ""
+          },
+          "descripcion": "Aportes Privados de Carácter Público de Partidos Politicos",
+          "glosa": "APORTES PRIVADOS DE CARACTER PUBLICO PARTIDO POLITICO",
+          "monto": 26470500
+        }
+      ]
+    },
+    "representacion": {}
+  },
+  {
+    "senador": {
+      "id": 156,
+      "nombre": "Matta Aragay, Manuel Antonio",
+      "rut": "4989165-2",
+      "region": "Región del Maule",
+      "circunscripcion": 11,
+      "telefono": "(56-32) 2504725",
+      "mail": "mmatta@senado.cl",
+      "partido": "P.D.C."
+    },
+    "elecciones": {},
+    "representacion": {}
+  },
+  {
+    "senador": {
+      "id": 1119,
+      "nombre": "Montes Cisternas, Carlos",
+      "rut": "4778821-8",
+      "region": "Región Metropolitana ",
+      "circunscripcion": 8,
+      "telefono": "(56-32)  4714 |",
+      "mail": "cmontes@senado.cl",
+      "partido": "P.S."
+    },
+    "elecciones": {
+      "ingresos": [
+        {
+          "estado": "Aprobada",
+          "proveedor": {
+            "rut": "71706400-3",
+            "nombre": "  PARTIDO SOCIALISTA  "
+          },
+          "fecha": 41589,
+          "documento": {
+            "tipo": "CB",
+            "descripcion": "Cartola bancaria",
+            "numero": ""
+          },
+          "descripcion": "Aportes Privados de Carácter Público de Partidos Politicos",
+          "glosa": "APORTE FUENTE PRIVADA DE CARACTER PUBLICO",
+          "monto": 3000000
+        },
+        {
+          "estado": "Aprobada",
+          "proveedor": {
+            "rut": "9707112-8",
+            "nombre": "  ERIKA JAQUELINE GAJARDO ARAYA   "
+          },
+          "fecha": 41505,
+          "documento": {
+            "tipo": "CR",
+            "descripcion": "Contrato (usufructo, comodato, mutuo)",
+            "numero": ""
+          },
+          "descripcion": "Usufructo",
+          "glosa": "COMODATO DE VEHICULO PATENTE SA 9748",
+          "monto": 2000000
+        },
+        {
+          "estado": "Aprobada",
+          "proveedor": {
+            "rut": "60504000-4",
+            "nombre": "  SERVICIO ELECTORAL  "
+          },
+          "fecha": 41595,
+          "documento": {
+            "tipo": "",
+            "descripcion": "",
+            "numero": ""
+          },
+          "descripcion": "Aportes Reservado",
+          "glosa": "APORTE RESERVADOS",
+          "monto": 77000006
+        },
+        {
+          "estado": "Aprobada",
+          "proveedor": {
+            "rut": "15794505-K",
+            "nombre": "  VICTOR SANTANA CONTRERAS  "
+          },
+          "fecha": 41505,
+          "documento": {
+            "tipo": "CR",
+            "descripcion": "Contrato (usufructo, comodato, mutuo)",
+            "numero": ""
+          },
+          "descripcion": "Usufructo",
+          "glosa": "COMODATO DE VEHICULO PATENTE NC 5442",
+          "monto": 2000000
+        },
+        {
+          "estado": "Aprobada",
+          "proveedor": {
+            "rut": "4778821-8",
+            "nombre": "  CARLOS MONTES CISTERNAS  "
+          },
+          "fecha": 41595,
+          "documento": {
+            "tipo": "OI",
+            "descripcion": "Otros Documentos de Ingresos",
+            "numero": ""
+          },
+          "descripcion": "Aportes Reservado",
+          "glosa": "APORTE PROPIO",
+          "monto": 15000000
+        },
+        {
+          "estado": "Aprobada",
+          "proveedor": {
+            "rut": "97006000-6",
+            "nombre": "  BANCO CREDITO E INVERSIONES  "
+          },
+          "fecha": 41505,
+          "documento": {
+            "tipo": "LI",
+            "descripcion": "Liquidación de Intereses",
+            "numero": ""
+          },
+          "descripcion": "Intereses por crédito con Institución Financiera",
+          "glosa": "INTERESES POR CREDITO BANCARIO",
+          "monto": 3882528
+        },
+        {
+          "estado": "Aprobada",
+          "proveedor": {
+            "rut": "-",
+            "nombre": "  APORTES ANONIMOS  "
+          },
+          "fecha": 41595,
+          "documento": {
+            "tipo": "OI",
+            "descripcion": "Otros Documentos de Ingresos",
+            "numero": ""
+          },
+          "descripcion": "Aportes Anónimos",
+          "glosa": "APORTE ANONIMO",
+          "monto": 2727385
+        },
+        {
+          "estado": "Aprobada",
+          "proveedor": {
+            "rut": "71706400-3",
+            "nombre": "  PARTIDO SOCIALISTA  "
+          },
+          "fecha": 41508,
+          "documento": {
+            "tipo": "CB",
+            "descripcion": "Cartola bancaria",
+            "numero": ""
+          },
+          "descripcion": "Aportes Privados de Carácter Público de Partidos Politicos",
+          "glosa": "APORTE FUENTE PRIVADA DE CARACTER PUBLICO",
+          "monto": 3000000
+        },
+        {
+          "estado": "Aprobada",
+          "proveedor": {
+            "rut": "97006000-6",
+            "nombre": "  BANCO CREDITO E INVERSIONES  "
+          },
+          "fecha": 41505,
+          "documento": {
+            "tipo": "CB",
+            "descripcion": "Cartola bancaria",
+            "numero": ""
+          },
+          "descripcion": "Créditos con Instituciones Financieras",
+          "glosa": "CREDITO CON INSTITUCIONES FINANCIERAS",
+          "monto": 100000000
+        },
+        {
+          "estado": "Aprobada",
+          "proveedor": {
+            "rut": "71706400-3",
+            "nombre": "  PARTIDO SOCIALISTA  "
+          },
+          "fecha": 41556,
+          "documento": {
+            "tipo": "CB",
+            "descripcion": "Cartola bancaria",
+            "numero": ""
+          },
+          "descripcion": "Aportes Privados de Carácter Público de Partidos Politicos",
+          "glosa": "APORTE FUENTE PRIVADA DE CARACTER PUBLICO",
+          "monto": 4000000
+        },
+        {
+          "estado": "Aprobada",
+          "proveedor": {
+            "rut": "71706400-3",
+            "nombre": "  PARTIDO SOCIALISTA  "
+          },
+          "fecha": 41544,
+          "documento": {
+            "tipo": "CB",
+            "descripcion": "Cartola bancaria",
+            "numero": ""
+          },
+          "descripcion": "Aportes Privados de Carácter Público de Partidos Politicos",
+          "glosa": "APORTE FUENTE PRIVADA DE CARACTER PUBLICO",
+          "monto": 52941000
+        },
+        {
+          "estado": "Aprobada",
+          "proveedor": {
+            "rut": "-",
+            "nombre": "     "
+          },
+          "fecha": "",
+          "documento": {
+            "tipo": "OI",
+            "descripcion": "Otros Documentos de Ingresos",
+            "numero": ""
+          },
+          "descripcion": "Reembolso solicitado candidato o partido",
+          "glosa": "REEMBOLSO SOLICITADO PARA EL CANDIDATO",
+          "monto": 88243716
+        }
+      ]
+    },
+    "representacion": {}
+  },
+  {
+    "senador": {
+      "id": 1117,
+      "nombre": "Moreira Barros, Iván",
+      "rut": "6364944-9",
+      "region": "Región de Los Lagos",
+      "circunscripcion": 17,
+      "telefono": "(56-32) 2504715",
+      "mail": "imoreira@senado.cl",
+      "partido": "U.D.I."
+    },
+    "elecciones": {
+      "ingresos": [
+        {
+          "estado": "Aprobada",
+          "proveedor": {
+            "rut": "6364944-9",
+            "nombre": "  Ivan Moreira Barros  "
+          },
+          "fecha": 41511,
+          "documento": {
+            "tipo": "LS",
+            "descripcion": "Liquidación de sueldo",
+            "numero": ""
+          },
+          "descripcion": "Aporte Propio",
+          "glosa": "A: Propio / liq. de sdos.",
+          "monto": 31816769
+        },
+        {
+          "estado": "Aprobada",
+          "proveedor": {
+            "rut": "-",
+            "nombre": "     "
+          },
+          "fecha": "",
+          "documento": {
+            "tipo": "",
+            "descripcion": "",
+            "numero": ""
+          },
+          "descripcion": "Aportes Anónimos",
+          "glosa": "56 aportes anonimos",
+          "monto": 23100000
+        },
+        {
+          "estado": "Aprobada",
+          "proveedor": {
+            "rut": "97006000-6",
+            "nombre": "  Bco. Ctredito e Inveras  "
+          },
+          "fecha": "",
+          "documento": {
+            "tipo": "LI",
+            "descripcion": "Liquidación de Intereses",
+            "numero": ""
+          },
+          "descripcion": "Intereses por crédito con Institución Financiera",
+          "glosa": "Calculo de interes por credito",
+          "monto": 1729865
+        },
+        {
+          "estado": "Aprobada",
+          "proveedor": {
+            "rut": "6364944-9",
+            "nombre": "  Ivan Moreira Barros  "
+          },
+          "fecha": 41511,
+          "documento": {
+            "tipo": "",
+            "descripcion": "",
+            "numero": ""
+          },
+          "descripcion": "Aporte Propio",
+          "glosa": "Aporte de vehiculo propuio p. campaña",
+          "monto": 500000
+        },
+        {
+          "estado": "Aprobada",
+          "proveedor": {
+            "rut": "97006000-6",
+            "nombre": "  Banco Credito e Invers.  "
+          },
+          "fecha": 41519,
+          "documento": {
+            "tipo": "",
+            "descripcion": "",
+            "numero": ""
+          },
+          "descripcion": "Créditos con Instituciones Financieras",
+          "glosa": "Credito Bco. Credito e I.",
+          "monto": 60273521
+        },
+        {
+          "estado": "Aprobada",
+          "proveedor": {
+            "rut": "12883135-5",
+            "nombre": "  Ricardo Molina Requena  "
+          },
+          "fecha": 41511,
+          "documento": {
+            "tipo": "CR",
+            "descripcion": "Contrato (usufructo, comodato, mutuo)",
+            "numero": ""
+          },
+          "descripcion": "Usufructo",
+          "glosa": "Comodato 2 camionetas",
+          "monto": 1000000
+        },
+        {
+          "estado": "Aprobada",
+          "proveedor": {
+            "rut": "-",
+            "nombre": "     "
+          },
+          "fecha": "",
+          "documento": {
+            "tipo": "",
+            "descripcion": "",
+            "numero": ""
+          },
+          "descripcion": "Aportes Reservado",
+          "glosa": "Aportes reservasdos",
+          "monto": 218040500
+        }
+      ]
+    },
+    "representacion": {}
+  },
+  {
+    "senador": {
+      "id": 1118,
+      "nombre": "Muñoz D`Albora, Adriana",
+      "rut": "6025646-2",
+      "region": "Región de Coquimbo\n\n",
+      "circunscripcion": 4,
+      "telefono": "(56-32) 2504717",
+      "mail": "amunoz@senado.cl",
+      "partido": "P.P.D."
+    },
+    "elecciones": {
+      "ingresos": [
+        {
+          "estado": "Aprobada",
+          "proveedor": {
+            "rut": "6025646-2",
+            "nombre": "ADRIANA MUÑOZ DÁLBORA"
+          },
+          "fecha": 41555,
+          "documento": {
+            "tipo": "OI",
+            "descripcion": "Otros Documentos de Ingresos",
+            "numero": "12022014"
+          },
+          "descripcion": "Créditos con Instituciones Financieras",
+          "glosa": "CREDITO SOLICITADO POR CANDIDATO",
+          "monto": 32091000
+        },
+        {
+          "estado": "Aprobada",
+          "proveedor": {
+            "rut": "78768260-K",
+            "nombre": "RADIO  NIEBLA FM  "
+          },
+          "fecha": 41589,
+          "documento": {
+            "tipo": "",
+            "descripcion": "",
+            "numero": "3202"
+          },
+          "descripcion": "Reembolso solicitado candidato o partido",
+          "glosa": "FACTURA POR CONCEPTO D",
+          "monto": 330000
+        },
+        {
+          "estado": "Aprobada",
+          "proveedor": {
+            "rut": "762882027-",
+            "nombre": "LIDERA COMUNICACIONE    "
+          },
+          "fecha": 41592,
+          "documento": {
+            "tipo": "",
+            "descripcion": "",
+            "numero": "74"
+          },
+          "descripcion": "Reembolso solicitado candidato o partido",
+          "glosa": "FACTURA POR CONCEPTO",
+          "monto": 9520000
+        },
+        {
+          "estado": "Aprobada",
+          "proveedor": {
+            "rut": "778605201-",
+            "nombre": "HUGO FIGUEROA E HIJO L  "
+          },
+          "fecha": 41570,
+          "documento": {
+            "tipo": "OI",
+            "descripcion": "Otros Documentos de Ingresos",
+            "numero": "77"
+          },
+          "descripcion": "Reembolso solicitado candidato o partido",
+          "glosa": "FACTURA POR CONCEPTO D",
+          "monto": 75000
+        },
+        {
+          "estado": "Aprobada",
+          "proveedor": {
+            "rut": "808374005-",
+            "nombre": "RADIO RIQUELME YCOM    "
+          },
+          "fecha": 41578,
+          "documento": {
+            "tipo": "",
+            "descripcion": "",
+            "numero": "26936"
+          },
+          "descripcion": "Reembolso solicitado candidato o partido",
+          "glosa": "FACTURA POR CONCEPTO D",
+          "monto": 606900
+        },
+        {
+          "estado": "Aprobada",
+          "proveedor": {
+            "rut": "762882027-",
+            "nombre": "LIDERA COMUNICACIONE    "
+          },
+          "fecha": 41592,
+          "documento": {
+            "tipo": "",
+            "descripcion": "",
+            "numero": "76"
+          },
+          "descripcion": "Reembolso solicitado candidato o partido",
+          "glosa": "FACTURA POR CONCEPTO D",
+          "monto": 9853200
+        },
+        {
+          "estado": "Aprobada",
+          "proveedor": {
+            "rut": "97006000-6",
+            "nombre": "BANCO DE CREDITO INVERSIONES"
+          },
+          "fecha": 41638,
+          "documento": {
+            "tipo": "LI",
+            "descripcion": "Liquidación de Intereses",
+            "numero": "12022014"
+          },
+          "descripcion": "Intereses por crédito con Institución Financiera",
+          "glosa": "INTERESES PRESTAMO SOLICITADO",
+          "monto": 804842
+        },
+        {
+          "estado": "Aprobada",
+          "proveedor": {
+            "rut": "605040004-",
+            "nombre": "SERVICIO ELECTORAL    "
+          },
+          "fecha": 41557,
+          "documento": {
+            "tipo": "OI",
+            "descripcion": "Otros Documentos de Ingresos",
+            "numero": "12309201"
+          },
+          "descripcion": "Aportes Reservado",
+          "glosa": "APORTES REALIZADOS",
+          "monto": 33000000
+        },
+        {
+          "estado": "Aprobada",
+          "proveedor": {
+            "rut": "-",
+            "nombre": "     "
+          },
+          "fecha": "",
+          "documento": {
+            "tipo": "OI",
+            "descripcion": "Otros Documentos de Ingresos",
+            "numero": ""
+          },
+          "descripcion": "Aportes Anónimos",
+          "glosa": "APORTE ANONIMO",
+          "monto": 6032
+        },
+        {
+          "estado": "Aprobada",
+          "proveedor": {
+            "rut": "763197913-",
+            "nombre": "DIALOGA CONSULTORES    "
+          },
+          "fecha": 41583,
+          "documento": {
+            "tipo": "OI",
+            "descripcion": "Otros Documentos de Ingresos",
+            "numero": "3"
+          },
+          "descripcion": "Reembolso solicitado candidato o partido",
+          "glosa": "FACTURA POR SERVICIO DE",
+          "monto": 1500000
+        },
+        {
+          "estado": "Aprobada",
+          "proveedor": {
+            "rut": "108844523-",
+            "nombre": "CECILIA DEL CARMEN C O  "
+          },
+          "fecha": 41592,
+          "documento": {
+            "tipo": "",
+            "descripcion": "",
+            "numero": "1373"
+          },
+          "descripcion": "Reembolso solicitado candidato o partido",
+          "glosa": "FACTURA POR CONCEPTO D",
+          "monto": 785400
+        },
+        {
+          "estado": "Aprobada",
+          "proveedor": {
+            "rut": "779421406-",
+            "nombre": "SOCIEDAD RADIODIFUSO    "
+          },
+          "fecha": 41583,
+          "documento": {
+            "tipo": "OI",
+            "descripcion": "Otros Documentos de Ingresos",
+            "numero": "150"
+          },
+          "descripcion": "Reembolso solicitado candidato o partido",
+          "glosa": "FACTURA POR CONCEPTO D",
+          "monto": 119000
+        },
+        {
+          "estado": "Aprobada",
+          "proveedor": {
+            "rut": "762617463-",
+            "nombre": "SOCIEDAD COMERCIAL S A  "
+          },
+          "fecha": 41578,
+          "documento": {
+            "tipo": "",
+            "descripcion": "",
+            "numero": "232"
+          },
+          "descripcion": "Reembolso solicitado candidato o partido",
+          "glosa": "FACTURA POR CONCEPTO D",
+          "monto": 456000
+        },
+        {
+          "estado": "Aprobada",
+          "proveedor": {
+            "rut": "7595722-K",
+            "nombre": "LUIS FRANCISCO TAPIA G  "
+          },
+          "fecha": 41507,
+          "documento": {
+            "tipo": "",
+            "descripcion": "",
+            "numero": "4325"
+          },
+          "descripcion": "Reembolso solicitado candidato o partido",
+          "glosa": "FACTURA POR CONCEPTO D",
+          "monto": 90970
+        },
+        {
+          "estado": "Aprobada",
+          "proveedor": {
+            "rut": "760823953-",
+            "nombre": "SERVICIO DE TELECOMU N  "
+          },
+          "fecha": 41604,
+          "documento": {
+            "tipo": "",
+            "descripcion": "",
+            "numero": "441"
+          },
+          "descripcion": "Reembolso solicitado candidato o partido",
+          "glosa": "FACTURA POR CONCEPTO D",
+          "monto": 714000
+        },
+        {
+          "estado": "Aprobada",
+          "proveedor": {
+            "rut": "72104420-",
+            "nombre": "CARLOS DE LA CRUZ OS SA  "
+          },
+          "fecha": 41578,
+          "documento": {
+            "tipo": "",
+            "descripcion": "",
+            "numero": "4686"
+          },
+          "descripcion": "Reembolso solicitado candidato o partido",
+          "glosa": "FACTURA POR CONCEPTO D",
+          "monto": 714000
+        },
+        {
+          "estado": "Aprobada",
+          "proveedor": {
+            "rut": "766091806-",
+            "nombre": "SOCIEDAD COMERCIAL Y    "
+          },
+          "fecha": 41600,
+          "documento": {
+            "tipo": "",
+            "descripcion": "",
+            "numero": "766"
+          },
+          "descripcion": "Reembolso solicitado candidato o partido",
+          "glosa": "FACTURA POR CONCEPTO D",
+          "monto": 642600
+        },
+        {
+          "estado": "Aprobada",
+          "proveedor": {
+            "rut": "995108208-",
+            "nombre": "COMPA¿IA DE RADIO Y T  "
+          },
+          "fecha": 41577,
+          "documento": {
+            "tipo": "",
+            "descripcion": "",
+            "numero": "1709"
+          },
+          "descripcion": "Reembolso solicitado candidato o partido",
+          "glosa": "FACTURA POR CONCEPTO D",
+          "monto": 285600
+        },
+        {
+          "estado": "Aprobada",
+          "proveedor": {
+            "rut": "78408780-8",
+            "nombre": "  SIST DE RADIODIFUSIO N LTDA"
+          },
+          "fecha": 41591,
+          "documento": {
+            "tipo": "OI",
+            "descripcion": "Otros Documentos de Ingresos",
+            "numero": "3606"
+          },
+          "descripcion": "Reembolso solicitado candidato o partido",
+          "glosa": "FACTURA PARA REEMBOLSO",
+          "monto": 618800
+        },
+        {
+          "estado": "Aprobada",
+          "proveedor": {
+            "rut": "71455400-K",
+            "nombre": "PARTIDO POR LA DEMOCRACIA  "
+          },
+          "fecha": 41557,
+          "documento": {
+            "tipo": "OI",
+            "descripcion": "Otros Documentos de Ingresos",
+            "numero": "22"
+          },
+          "descripcion": "Aportes Privados de Carácter Público de Partidos Politicos",
+          "glosa": "APORTE REALIZADO POR PA",
+          "monto": 26000000
+        },
+        {
+          "estado": "Aprobada",
+          "proveedor": {
+            "rut": "8239379-K",
+            "nombre": "FRANCISCO DANIEL FIG U  "
+          },
+          "fecha": 41583,
+          "documento": {
+            "tipo": "",
+            "descripcion": "",
+            "numero": "829"
+          },
+          "descripcion": "Reembolso solicitado candidato o partido",
+          "glosa": "FACTURA POR CONCEPTO D",
+          "monto": 357000
+        }
+      ]
+    },
+    "representacion": {}
+  },
+  {
+    "senador": {
+      "id": 915,
+      "nombre": "Navarro Brain, Alejandro",
+      "rut": "8510034-3",
+      "region": "Región del Bío-Bío",
+      "circunscripcion": 12,
+      "telefono": "(56-32) 2504582",
+      "mail": "anavarro@senado.cl",
+      "partido": "MAS"
+    },
+    "elecciones": {
+      "ingresos": [
+        {
+          "estado": "Aprobada",
+          "proveedor": {
+            "rut": "85100343-",
+            "nombre": "ALEJANDRO NAVARRO BR AIN  "
+          },
+          "fecha": 41561,
+          "documento": {
+            "tipo": "LS",
+            "descripcion": "Liquidación de sueldo",
+            "numero": "0"
+          },
+          "descripcion": "Aporte Propio",
+          "glosa": "APORTES PROPIOS DEL CANDIDATO",
+          "monto": 11588627
+        },
+        {
+          "estado": "Aprobada",
+          "proveedor": {
+            "rut": "-",
+            "nombre": "VARIOS - VER PLANILL A EXCEL  "
+          },
+          "fecha": 41582,
+          "documento": {
+            "tipo": "OI",
+            "descripcion": "Otros Documentos de Ingresos",
+            "numero": "0"
+          },
+          "descripcion": "Aportes Anónimos",
+          "glosa": "APORTES PRIVADOS EN DINERO",
+          "monto": 10045000
+        },
+        {
+          "estado": "Aprobada",
+          "proveedor": {
+            "rut": "65003604-2",
+            "nombre": "PARTIDO MIVIMIENTO A MPLIO SOCIAL  "
+          },
+          "fecha": 41548,
+          "documento": {
+            "tipo": "RE",
+            "descripcion": "Recibo de dinero en efectivo",
+            "numero": "0"
+          },
+          "descripcion": "Aportes Privados de Carácter Público de Partidos Politicos",
+          "glosa": "APORTE PRIVADO DE CARACTER PUBLICO DE PARTIDO POLITICO",
+          "monto": 42900000
+        },
+        {
+          "estado": "Aprobada",
+          "proveedor": {
+            "rut": "-",
+            "nombre": "     "
+          },
+          "fecha": "",
+          "documento": {
+            "tipo": "",
+            "descripcion": "",
+            "numero": "0"
+          },
+          "descripcion": "Reembolso solicitado candidato o partido",
+          "glosa": "REEMBOLSO SOLIICITADO POR CANDIDATO",
+          "monto": 117377769
+        },
+        {
+          "estado": "Aprobada",
+          "proveedor": {
+            "rut": "8510034-3",
+            "nombre": "  ALEJANDRO NAVARRO  B RAIN"
+          },
+          "fecha": "",
+          "documento": {
+            "tipo": "OI",
+            "descripcion": "Otros Documentos de Ingresos",
+            "numero": ""
+          },
+          "descripcion": "Aporte Propio",
+          "glosa": "",
+          "monto": 6
+        },
+        {
+          "estado": "Aprobada",
+          "proveedor": {
+            "rut": "605040004-",
+            "nombre": "SERVICIO ELECTORAL    "
+          },
+          "fecha": 41595,
+          "documento": {
+            "tipo": "OI",
+            "descripcion": "Otros Documentos de Ingresos",
+            "numero": "6703"
+          },
+          "descripcion": "Aportes Reservado",
+          "glosa": "APORTES RESERVADOS INFORMADO POR SERVEL",
+          "monto": 2466667
+        }
+      ]
+    },
+    "representacion": {}
+  },
+  {
+    "senador": {
+      "id": 692,
+      "nombre": "Orpis Bouchon, Jaime",
+      "rut": "7005559-7",
+      "region": "Región de Tarapacá\n\n",
+      "circunscripcion": 1,
+      "telefono": "(56-32) 2504515",
+      "mail": "jorpis@senado.cl",
+      "partido": "U.D.I."
+    },
+    "elecciones": {},
+    "representacion": {}
+  },
+  {
+    "senador": {
+      "id": 1120,
+      "nombre": "Ossandón Irarrázabal, Manuel José",
+      "rut": "7022006-7",
+      "region": "Región Metropolitana ",
+      "circunscripcion": 8,
+      "telefono": "(56-32) 2504719",
+      "mail": "mjossandon@senado.cl",
+      "partido": "R.N."
+    },
+    "elecciones": {
+      "ingresos": [
+        {
+          "estado": "Aprobada",
+          "proveedor": {
+            "rut": "965823603-",
+            "nombre": "INV. Y SERV. ELISA L TDA  "
+          },
+          "fecha": 41592,
+          "documento": {
+            "tipo": "CD",
+            "descripcion": "Certificado de donación",
+            "numero": "6"
+          },
+          "descripcion": "Aportes Privados de Carácter Público",
+          "glosa": "APORTES PRIVADOS DE CARACTER PUBLICO",
+          "monto": 1000000
+        },
+        {
+          "estado": "Aprobada",
+          "proveedor": {
+            "rut": "760543136-",
+            "nombre": "ASESOR¿AS NAYEN LTDA    "
+          },
+          "fecha": 41592,
+          "documento": {
+            "tipo": "CD",
+            "descripcion": "Certificado de donación",
+            "numero": "7"
+          },
+          "descripcion": "Aportes Privados de Carácter Público",
+          "glosa": "APORTES PRIVADOS DE CARACTER PUBLICO",
+          "monto": 10000000
+        },
+        {
+          "estado": "Aprobada",
+          "proveedor": {
+            "rut": "71395000-9",
+            "nombre": "RENOVACION NACIONAL  "
+          },
+          "fecha": "",
+          "documento": {
+            "tipo": "CD",
+            "descripcion": "Certificado de donación",
+            "numero": "2041"
+          },
+          "descripcion": "Aportes Privados de Carácter Público de Partidos Politicos",
+          "glosa": "APORTE RN",
+          "monto": 20000000
+        },
+        {
+          "estado": "Aprobada",
+          "proveedor": {
+            "rut": "-",
+            "nombre": "APORTES RESERVADOS    "
+          },
+          "fecha": "",
+          "documento": {
+            "tipo": "",
+            "descripcion": "",
+            "numero": "0"
+          },
+          "descripcion": "Aportes Reservado",
+          "glosa": "",
+          "monto": 89000000
+        },
+        {
+          "estado": "Aprobada",
+          "proveedor": {
+            "rut": "780535504-",
+            "nombre": "INV. IGMA LTDA    "
+          },
+          "fecha": 41577,
+          "documento": {
+            "tipo": "CD",
+            "descripcion": "Certificado de donación",
+            "numero": "3"
+          },
+          "descripcion": "Aportes Privados de Carácter Público",
+          "glosa": "APORTES PRIVADOS DE CARACTER PUBLICO",
+          "monto": 11000000
+        },
+        {
+          "estado": "Aprobada",
+          "proveedor": {
+            "rut": "781449806-",
+            "nombre": "INM. LOS GOMEROS LTD A  "
+          },
+          "fecha": 41577,
+          "documento": {
+            "tipo": "CD",
+            "descripcion": "Certificado de donación",
+            "numero": "5"
+          },
+          "descripcion": "Aportes Privados de Carácter Público",
+          "glosa": "APORTES PRIVADOS DE CARACTER PUBLICO",
+          "monto": 3000000
+        },
+        {
+          "estado": "Aprobada",
+          "proveedor": {
+            "rut": "779582701-",
+            "nombre": "OSSAND¿N ABOGADOS    "
+          },
+          "fecha": 41505,
+          "documento": {
+            "tipo": "CR",
+            "descripcion": "Contrato (usufructo, comodato, mutuo)",
+            "numero": "0"
+          },
+          "descripcion": "Usufructo",
+          "glosa": "USUFRUCTO PROPIEDAD COMANDO",
+          "monto": 4500000
+        },
+        {
+          "estado": "Aprobada",
+          "proveedor": {
+            "rut": "778996804-",
+            "nombre": "ASESOR¿AS IGMA LTDA    "
+          },
+          "fecha": 41577,
+          "documento": {
+            "tipo": "CD",
+            "descripcion": "Certificado de donación",
+            "numero": "4"
+          },
+          "descripcion": "Aportes Privados de Carácter Público",
+          "glosa": "APORTES PRIVADOS DE CARACTER PUBLICO",
+          "monto": 7000000
+        },
+        {
+          "estado": "Aprobada",
+          "proveedor": {
+            "rut": "56124114-",
+            "nombre": "CARLOS MONTRONE    "
+          },
+          "fecha": 41577,
+          "documento": {
+            "tipo": "CD",
+            "descripcion": "Certificado de donación",
+            "numero": "2"
+          },
+          "descripcion": "Aportes Privados de Carácter Público",
+          "glosa": "APORTES PRIVADOS DE CARACTER PUBLICO",
+          "monto": 15000000
+        },
+        {
+          "estado": "Aprobada",
+          "proveedor": {
+            "rut": "969846306-",
+            "nombre": "INV. SAN GABRIEL S.A .  "
+          },
+          "fecha": 41592,
+          "documento": {
+            "tipo": "CD",
+            "descripcion": "Certificado de donación",
+            "numero": "8"
+          },
+          "descripcion": "Aportes Privados de Carácter Público",
+          "glosa": "APORTES PRIVADOS DE CARACTER PUBLICO",
+          "monto": 20000000
+        },
+        {
+          "estado": "Aprobada",
+          "proveedor": {
+            "rut": "-",
+            "nombre": "APORTES AN¿NIMOS    "
+          },
+          "fecha": "",
+          "documento": {
+            "tipo": "",
+            "descripcion": "",
+            "numero": "0"
+          },
+          "descripcion": "Aportes Anónimos",
+          "glosa": "27O APORTES",
+          "monto": 123327199
+        },
+        {
+          "estado": "Aprobada",
+          "proveedor": {
+            "rut": "-",
+            "nombre": "REEMBOLSO SOLICITADO    "
+          },
+          "fecha": "",
+          "documento": {
+            "tipo": "",
+            "descripcion": "",
+            "numero": "0"
+          },
+          "descripcion": "Reembolso solicitado candidato o partido",
+          "glosa": "",
+          "monto": 217218408
+        }
+      ]
+    },
+    "representacion": {}
+  },
+  {
+    "senador": {
+      "id": 1007,
+      "nombre": "Pérez San Martín, Lily",
+      "rut": "7022810-6",
+      "region": "Región de Valparaíso",
+      "circunscripcion": 5,
+      "telefono": "(56-32) 2504677",
+      "mail": "lperez@senado.cl",
+      "partido": "Amplitud"
+    },
+    "elecciones": {},
+    "representacion": {}
+  },
+  {
+    "senador": {
+      "id": 916,
+      "nombre": "Pérez Varela, Víctor",
+      "rut": "7224810-4",
+      "region": "Región del Bío-Bío",
+      "circunscripcion": 13,
+      "telefono": "(56-32) 2504584",
+      "mail": "vperez@senado.cl",
+      "partido": "U.D.I."
+    },
+    "elecciones": {
+      "ingresos": [
+        {
+          "estado": "Aprobada",
+          "proveedor": {
+            "rut": "-",
+            "nombre": "  Servicio Electoral  "
+          },
+          "fecha": "",
+          "documento": {
+            "tipo": "CB",
+            "descripcion": "Cartola bancaria",
+            "numero": "6759"
+          },
+          "descripcion": "Aportes Reservado",
+          "glosa": "Abono a cta. cte.",
+          "monto": 74077778
+        },
+        {
+          "estado": "Aprobada",
+          "proveedor": {
+            "rut": "-",
+            "nombre": "  Varios prdveedores  "
+          },
+          "fecha": "",
+          "documento": {
+            "tipo": "OI",
+            "descripcion": "Otros Documentos de Ingresos",
+            "numero": ""
+          },
+          "descripcion": "Reembolso solicitado candidato o partido",
+          "glosa": "Gastos de campaña",
+          "monto": 54400314
+        }
+      ]
+    },
+    "representacion": {}
+  },
+  {
+    "senador": {
+      "id": 163,
+      "nombre": "Pizarro Soto, Jorge",
+      "rut": "6033019-0",
+      "region": "Región de Coquimbo\n\n",
+      "circunscripcion": 4,
+      "telefono": "(56-32) 2504260",
+      "mail": "jpizarro@senado.cl",
+      "partido": "P.D.C."
+    },
+    "elecciones": {
+      "ingresos": [
+        {
+          "estado": "Aprobada",
+          "proveedor": {
+            "rut": "60330190-",
+            "nombre": "JORGE PIZARRO SOTO    "
+          },
+          "fecha": "",
+          "documento": {
+            "tipo": "",
+            "descripcion": "",
+            "numero": "0"
+          },
+          "descripcion": "Aporte Propio",
+          "glosa": "APORTE PROPIO",
+          "monto": 2556699
+        },
+        {
+          "estado": "Aprobada",
+          "proveedor": {
+            "rut": "-",
+            "nombre": "SERVEL    "
+          },
+          "fecha": "",
+          "documento": {
+            "tipo": "",
+            "descripcion": "",
+            "numero": "0"
+          },
+          "descripcion": "Aportes Reservado",
+          "glosa": "APORTE RESERVADO",
+          "monto": 110000000
+        },
+        {
+          "estado": "Aprobada",
+          "proveedor": {
+            "rut": "-",
+            "nombre": "REEMBOLSO SOLICITADO POR EL CANDIDATO  "
+          },
+          "fecha": "",
+          "documento": {
+            "tipo": "",
+            "descripcion": "",
+            "numero": "0"
+          },
+          "descripcion": "Reembolso solicitado candidato o partido",
+          "glosa": "REEMBOLSO SOLICITADO POR EL CANDIDATO",
+          "monto": 53119292
+        },
+        {
+          "estado": "Aprobada",
+          "proveedor": {
+            "rut": "71468400-0",
+            "nombre": "PARTIDO DEMOCRATA CR ISTIANO  "
+          },
+          "fecha": 41589,
+          "documento": {
+            "tipo": "",
+            "descripcion": "",
+            "numero": "0"
+          },
+          "descripcion": "Aportes Privados de Carácter Público de Partidos Politicos",
+          "glosa": "APORTE PRIVADO DE CARACTER PUBLICO",
+          "monto": 25000000
+        }
+      ]
+    },
+    "representacion": {}
+  },
+  {
+    "senador": {
+      "id": 693,
+      "nombre": "Prokurica Prokurica, Baldo",
+      "rut": "5261867-3",
+      "region": "Región de Atacama",
+      "circunscripcion": 3,
+      "telefono": "(56-32) 2504518",
+      "mail": "bprokurica@senado.cl",
+      "partido": "R.N."
+    },
+    "elecciones": {},
+    "representacion": {}
+  },
+  {
+    "senador": {
+      "id": 1008,
+      "nombre": "Quintana Leal, Jaime",
+      "rut": "10754652-9",
+      "region": "Región de la Araucanía",
+      "circunscripcion": 14,
+      "telefono": "(56-32) 2504679",
+      "mail": "jquintana@senado.cl",
+      "partido": "P.P.D."
+    },
+    "elecciones": {},
+    "representacion": {}
+  },
+  {
+    "senador": {
+      "id": 1116,
+      "nombre": "Quinteros Lara, Rabindranath",
+      "rut": "4423698-2",
+      "region": "Región de Los Lagos",
+      "circunscripcion": 17,
+      "telefono": "(56-32) 2504721",
+      "mail": "rquinteros@senado.cl",
+      "partido": "P.S."
+    },
+    "elecciones": {
+      "ingresos": [
+        {
+          "estado": "Aprobada",
+          "proveedor": {
+            "rut": "71706400-3",
+            "nombre": "PARTIDO SOCIALISTA DE CHILE  "
+          },
+          "fecha": 41590,
+          "documento": {
+            "tipo": "CB",
+            "descripcion": "Cartola bancaria",
+            "numero": ""
+          },
+          "descripcion": "Aportes Privados de Carácter Público de Partidos Politicos",
+          "glosa": "APORTES PRIVADOS DE CARACTER PUBLICO DE PARTIDOS POLITICOS (",
+          "monto": 3000000
+        },
+        {
+          "estado": "Aprobada",
+          "proveedor": {
+            "rut": "-",
+            "nombre": "APORTES ANONIMOS (167 aportantes)  "
+          },
+          "fecha": 41595,
+          "documento": {
+            "tipo": "",
+            "descripcion": "",
+            "numero": ""
+          },
+          "descripcion": "Aportes Anónimos",
+          "glosa": "aporte anonimos",
+          "monto": 19785649
+        },
+        {
+          "estado": "Aprobada",
+          "proveedor": {
+            "rut": "71706400-3",
+            "nombre": "PARTIDO SOCIALISTA DE CHILE  "
+          },
+          "fecha": 41508,
+          "documento": {
+            "tipo": "CB",
+            "descripcion": "Cartola bancaria",
+            "numero": ""
+          },
+          "descripcion": "Aportes Privados de Carácter Público de Partidos Politicos",
+          "glosa": "APORTES PRIVADOS DE CARACTER PUBLICO DE PARTIDOS POLITICOS (",
+          "monto": 3000000
+        },
+        {
+          "estado": "Aprobada",
+          "proveedor": {
+            "rut": "-",
+            "nombre": "     "
+          },
+          "fecha": "",
+          "documento": {
+            "tipo": "OI",
+            "descripcion": "Otros Documentos de Ingresos",
+            "numero": ""
+          },
+          "descripcion": "Reembolso solicitado candidato o partido",
+          "glosa": "REEMBOLSO SOLICITADO POR EL CANDIDATO",
+          "monto": 97202690
+        },
+        {
+          "estado": "Aprobada",
+          "proveedor": {
+            "rut": "71706400-3",
+            "nombre": "PARTIDO SOCIALISTA DE CHILE  "
+          },
+          "fecha": 41544,
+          "documento": {
+            "tipo": "CB",
+            "descripcion": "Cartola bancaria",
+            "numero": ""
+          },
+          "descripcion": "Aportes Privados de Carácter Público de Partidos Politicos",
+          "glosa": "APORTES PRIVADOS DE CARACTER PUBLICO DE PARTIDOS POLITICOS (",
+          "monto": 17647000
+        },
+        {
+          "estado": "Aprobada",
+          "proveedor": {
+            "rut": "-",
+            "nombre": "     "
+          },
+          "fecha": 41595,
+          "documento": {
+            "tipo": "",
+            "descripcion": "",
+            "numero": ""
+          },
+          "descripcion": "Aportes Reservado",
+          "glosa": "APORTES RESERVADOS",
+          "monto": 26990000
+        },
+        {
+          "estado": "Aprobada",
+          "proveedor": {
+            "rut": "71706400-3",
+            "nombre": "PARTIDO SOCIALISTA DE CHILE  "
+          },
+          "fecha": 41571,
+          "documento": {
+            "tipo": "CB",
+            "descripcion": "Cartola bancaria",
+            "numero": ""
+          },
+          "descripcion": "Aportes Privados de Carácter Público de Partidos Politicos",
+          "glosa": "APORTES PRIVADOS DE CARACTER PUBLICO DE PARTIDOS POLITICOS (",
+          "monto": 5000000
+        }
+      ]
+    },
+    "representacion": {}
+  },
+  {
+    "senador": {
+      "id": 1010,
+      "nombre": "Rossi Ciocca, Fulvio",
+      "rut": "9510876-8",
+      "region": "Región de Tarapacá\n\n",
+      "circunscripcion": 1,
+      "telefono": "(56-32) 2504683",
+      "mail": "frossi@senado.cl",
+      "partido": "P.S."
+    },
+    "elecciones": {},
+    "representacion": {}
+  },
+  {
+    "senador": {
+      "id": 1011,
+      "nombre": "Tuma Zedán, Eugenio",
+      "rut": "4649124-6",
+      "region": "Región de la Araucanía",
+      "circunscripcion": 15,
+      "telefono": "(56-32) 2504685",
+      "mail": "etuma@senado.cl",
+      "partido": "P.P.D."
+    },
+    "elecciones": {},
+    "representacion": {}
+  },
+  {
+    "senador": {
+      "id": 1112,
+      "nombre": "Van Rysselberghe Herrera, Jacqueline",
+      "rut": "8832758-6",
+      "region": "Región del Bío-Bío",
+      "circunscripcion": 12,
+      "telefono": "(56-32) 2504723",
+      "mail": "jvanr@senado.cl",
+      "partido": "U.D.I."
+    },
+    "elecciones": {
+      "ingresos": [
+        {
+          "estado": "Aprobada",
+          "proveedor": {
+            "rut": "-",
+            "nombre": "     "
+          },
+          "fecha": "",
+          "documento": {
+            "tipo": "",
+            "descripcion": "",
+            "numero": ""
+          },
+          "descripcion": "Aportes Reservado",
+          "glosa": "APORTE RESERVADO",
+          "monto": 278785814
+        },
+        {
+          "estado": "Aprobada",
+          "proveedor": {
+            "rut": "-",
+            "nombre": "     "
+          },
+          "fecha": "",
+          "documento": {
+            "tipo": "",
+            "descripcion": "",
+            "numero": ""
+          },
+          "descripcion": "Reembolso solicitado candidato o partido",
+          "glosa": "REEMBOLSO SOLICITADO POR CANDIDATO 18 DOCUMENTOS PEND. PAGO",
+          "monto": 87865938
+        },
+        {
+          "estado": "Aprobada",
+          "proveedor": {
+            "rut": "-",
+            "nombre": "     "
+          },
+          "fecha": "",
+          "documento": {
+            "tipo": "",
+            "descripcion": "",
+            "numero": ""
+          },
+          "descripcion": "Aporte por trabajo voluntario",
+          "glosa": "TRABAJO VOLUNTARIO 214 PERSONAS DE ACUERDO A PLANILLA ADJUNT",
+          "monto": 109500000
+        }
+      ]
+    },
+    "representacion": {}
+  },
+  {
+    "senador": {
+      "id": 1067,
+      "nombre": "Von Baer Jahn, Ena",
+      "rut": "12927840-4",
+      "region": "Región de los Ríos",
+      "circunscripcion": 16,
+      "telefono": "(56-32) 2504693",
+      "mail": "evonbaer@senado.cl",
+      "partido": "U.D.I."
+    },
+    "elecciones": {
+      "ingresos": [
+        {
+          "estado": "Aprobada",
+          "proveedor": {
+            "rut": "16859138-1",
+            "nombre": "FERNANDO RENCORET GOMEZ"
+          },
+          "fecha": 41595,
+          "documento": {
+            "tipo": "BH",
+            "descripcion": "Boleta de Honorarios",
+            "numero": "3"
+          },
+          "descripcion": "Reembolso solicitado candidato o partido",
+          "glosa": "BOLETA PENDIENTE DE PAGO",
+          "monto": 4000000
+        },
+        {
+          "estado": "Aprobada",
+          "proveedor": {
+            "rut": "-",
+            "nombre": "     "
+          },
+          "fecha": "",
+          "documento": {
+            "tipo": "OI",
+            "descripcion": "Otros Documentos de Ingresos",
+            "numero": ""
+          },
+          "descripcion": "Aporte por trabajo voluntario",
+          "glosa": "TRABAJOS VOLUNTARIOS SEGUN PLANILLA ADJUNTA",
+          "monto": 3400000
+        },
+        {
+          "estado": "Aprobada",
+          "proveedor": {
+            "rut": "4196656-4",
+            "nombre": "HELGA MARIA JAHN BOLLAND"
+          },
+          "fecha": 41518,
+          "documento": {
+            "tipo": "OI",
+            "descripcion": "Otros Documentos de Ingresos",
+            "numero": ""
+          },
+          "descripcion": "Aportes Privados de Carácter Público",
+          "glosa": "APORTE VEHICULO",
+          "monto": 500000
+        },
+        {
+          "estado": "Aprobada",
+          "proveedor": {
+            "rut": "-",
+            "nombre": "SERVICIO ELECTORAL    "
+          },
+          "fecha": "",
+          "documento": {
+            "tipo": "CD",
+            "descripcion": "Certificado de donación",
+            "numero": "6781"
+          },
+          "descripcion": "Aportes Reservado",
+          "glosa": "APORTES RESERVADOS RECIVIDOS DURANTE CAMPAÑA",
+          "monto": 323825939
+        },
+        {
+          "estado": "Aprobada",
+          "proveedor": {
+            "rut": "12927840-4",
+            "nombre": "ENA VON BAER JAHN"
+          },
+          "fecha": 41518,
+          "documento": {
+            "tipo": "OI",
+            "descripcion": "Otros Documentos de Ingresos",
+            "numero": ""
+          },
+          "descripcion": "Aporte Propio",
+          "glosa": "APORTE VEHICULO CANDIDATA",
+          "monto": 1000000
+        },
+        {
+          "estado": "Aprobada",
+          "proveedor": {
+            "rut": "4255641-6",
+            "nombre": "ERIK VON BAER  "
+          },
+          "fecha": 41518,
+          "documento": {
+            "tipo": "OI",
+            "descripcion": "Otros Documentos de Ingresos",
+            "numero": ""
+          },
+          "descripcion": "Aportes Privados de Carácter Público",
+          "glosa": "APORTE VEHICULO",
+          "monto": 500000
+        }
+      ]
+    },
+    "representacion": {}
+  },
+  {
+    "senador": {
+      "id": 1013,
+      "nombre": "Walker Prieto, Ignacio",
+      "rut": "6241305-0",
+      "region": "Región de Valparaíso",
+      "circunscripcion": 5,
+      "telefono": "(56-32) 2504687",
+      "mail": "iwalker@senado.cl",
+      "partido": "P.D.C."
+    },
+    "elecciones": {},
+    "representacion": {}
+  },
+  {
+    "senador": {
+      "id": 1012,
+      "nombre": "Walker Prieto, Patricio",
+      "rut": "9857288-0",
+      "region": "Región de Aysén del General Carlos Ibáñez del Campo ",
+      "circunscripcion": 18,
+      "telefono": "(56-32) 2504689",
+      "mail": "pwalker@senado.cl",
+      "partido": "P.D.C."
+    },
+    "elecciones": {},
+    "representacion": {}
+  },
+  {
+    "senador": {
+      "id": 60,
+      "nombre": "Zaldívar Larraín, Andrés",
+      "rut": "3244592-6",
+      "region": "Región del Maule",
+      "circunscripcion": 10,
+      "telefono": "(56-32) 2504691",
+      "mail": "azaldivar@senado.cl",
+      "partido": "P.D.C."
+    },
+    "elecciones": {},
+    "representacion": {}
+  }
+]

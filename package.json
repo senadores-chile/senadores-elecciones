@@ -5,7 +5,8 @@
   "version": "0.1.0",
   "main": "index.js",
   "files": [
-    "index.js"
+    "index.js",
+    "update.js"
   ],
   "scripts": {
     "test": "standard --verbose | snazzy && ava"
@@ -13,7 +14,10 @@
   "repository": "YerkoPalma/senadores-elecciones",
   "keywords": [],
   "license": "MIT",
-  "dependencies": {},
+  "dependencies": {
+    "senadores-base": "^1.2.0",
+    "xlsx": "^0.8.0"
+  },
   "devDependencies": {
     "ava": "*",
     "snazzy": "^5.0.0",
