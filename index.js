@@ -13,13 +13,13 @@ module.exports = function senadoresElecciones (query, options) {
     // Can speciy just some part of the results
     // posible values: 'todos', 'elecciones', 'ingresos', 'gastos', 'representacion'
     tipo: 'todos',
-    cantidadSenadores: 1,
+    cantidadSenadores: -1,
     incluyeSenador: false
   }
   options = Object.assign(defaultOptions, options)
 
   let senadores = filter(base, query)
-  senadores = base.map(item => {
+  senadores = senadores.map(item => {
     if (!options.incluyeSenador) delete item.senador
     switch (options.tipo) {
       case 'todos':
