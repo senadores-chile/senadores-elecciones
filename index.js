@@ -1,9 +1,11 @@
 'use strict'
 
 const base = require('./senadores-elecciones.json')
+const filter = require('senadores-base/utils').filter
 // Get travels details for senators
 // (any, obj) -> arr
 module.exports = function senadoresElecciones (query, options) {
+  query = query || {}
   const defaultOptions = {
     // A query object, mongo like
     // it would be applied after all the result get fetched
@@ -16,7 +18,8 @@ module.exports = function senadoresElecciones (query, options) {
   }
   options = Object.assign(defaultOptions, options)
 
-  let senadores = base.map(item => {
+  let senadores = filter(base, query)
+  senadores = base.map(item => {
     if (!options.incluyeSenador) delete item.senador
     switch (options.tipo) {
       case 'todos':
