@@ -6,7 +6,8 @@
   "main": "index.js",
   "files": [
     "index.js",
-    "update.js"
+    "update.js",
+    "senadores-elecciones.json"
   ],
   "scripts": {
     "test": "standard --verbose | snazzy && ava"
