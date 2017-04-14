@@ -1,6 +1,5 @@
 'use strict'
 
-const base = require('./senadores-elecciones.json')
 const filter = require('senadores-base/utils').filter
 // Get travels details for senators
 // (any, obj) -> arr
@@ -17,7 +16,7 @@ module.exports = function senadoresElecciones (query, options) {
     incluyeSenador: false
   }
   options = Object.assign(defaultOptions, options)
-
+  var base = require('./senadores-elecciones.json')
   let senadores = filter(base, query)
   senadores = senadores.map(item => {
     if (!options.incluyeSenador) delete item.senador
