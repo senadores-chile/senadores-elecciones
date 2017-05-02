@@ -17,9 +17,9 @@ module.exports = function senadoresElecciones (query, options) {
   }
   options = Object.assign(defaultOptions, options)
   var base = require('./senadores-elecciones.json')
-  let senadores = filter(base, query)
-  senadores = senadores.map(item => {
-    if (!options.incluyeSenador) delete item.senador
+  var senadoresFilter = filter(base, query)
+  var senadores = senadoresFilter.map(item => {
+    if (!options.incluyeSenador) item.senador = undefined
     switch (options.tipo) {
       case 'todos':
         return item

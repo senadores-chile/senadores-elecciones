@@ -10,7 +10,8 @@
     "senadores-elecciones.json"
   ],
   "scripts": {
-    "test": "standard --verbose | snazzy && ava"
+    "test": "standard --verbose | snazzy && ava",
+    "start": "node example.js"
   },
   "repository": "YerkoPalma/senadores-elecciones",
   "keywords": [],
