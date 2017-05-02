@@ -17,12 +17,12 @@
   "keywords": [],
   "license": "MIT",
   "dependencies": {
-    "senadores-base": "^1.4.0",
-    "xlsx": "^0.8.0"
+    "senadores-base": "^1.4.1",
+    "xlsx": "^0.9.13"
   },
   "devDependencies": {
     "ava": "*",
-    "snazzy": "^5.0.0",
-    "standard": "^8.6.0"
+    "snazzy": "^7.0.0",
+    "standard": "^10.0.2"
   }
 }
