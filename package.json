@@ -11,7 +11,8 @@
   ],
   "scripts": {
     "test": "standard --verbose | snazzy && ava",
-    "start": "node example.js"
+    "start": "node example.js",
+    "update": "node update.js"
   },
   "repository": "YerkoPalma/senadores-elecciones",
   "keywords": [],

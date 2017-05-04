@@ -13,8 +13,9 @@ function addGasto (gasto, rut, results) {
   if (senatorIndex === -1) return
   let gastos = results[senatorIndex].elecciones.gastos
                   ? results[senatorIndex].elecciones.gastos
-                  : []
-  gastos.push(gasto)
+                  : { detalle: [], total: 0 }
+  gastos.detalle.push(gasto)
+  gastos.total += gasto.monto
   results[senatorIndex].elecciones = Object.assign(results[senatorIndex].elecciones, { gastos })
 }
 
@@ -27,8 +28,9 @@ function addIngreso (ingreso, rut, results) {
   if (senatorIndex === -1) return
   let ingresos = results[senatorIndex].elecciones.ingresos
                   ? results[senatorIndex].elecciones.ingresos
-                  : []
-  ingresos.push(ingreso)
+                  : { detalle: [], total: 0 }
+  ingresos.detalle.push(ingreso)
+  ingresos.total += ingreso.monto
   results[senatorIndex].elecciones = Object.assign(results[senatorIndex].elecciones, { ingresos })
 }
 

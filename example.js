@@ -39,5 +39,3 @@ const elecciones = require('./')
 // })
 
 console.log(elecciones('Allamand', { tipo: 'elecciones' }))
-console.log(elecciones('Allamand', { tipo: 'gastos' }))
-console.log(JSON.stringify(elecciones('Allamand', { tipo: 'ingresos' }), null, 2))
